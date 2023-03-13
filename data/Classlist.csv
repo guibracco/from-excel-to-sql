@@ -1,0 +1,44 @@
+StudentID,MovieID,Name,Email,Status
+8dd41d65-e083-44d8-b748-05d5e55194de,848c66f1-1fe7-4c49-b6f9-2791795bbaaa,Ali Akeel,ali.akeel@hyperisland.se,INTERNATIONAL/ONLINE
+d63707da-bebf-40e9-9706-0b15c76fc61e,bfd03ad8-c77c-4579-a5fc-a127051a2051,Alva Salkert,alva.salkert@hyperisland.se,ONSITE
+1176340a-b9df-416b-81e8-2bbf93827f33,c93e6855-d0c1-4a2a-b524-d20b341090c5,Ameer Abdulal,ameer.abdulal@hyperisland.se,ONSITE
+7d4e77a1-20e8-4009-9464-bc2ab3695494,5953e3c0-f83f-4722-8abd-6f240df47363,Amirhossein Zarabadi Pour,amir.zarabadipour@hyperisland.se,ONSITE
+aca46df2-fdbb-4ea8-b0a1-8581c9799572,8449e79c-5d07-4e3c-8b29-04aa098a84e9,Anna Högman,anna.hogman@hyperisland.se,ONSITE
+09a30e88-dfb2-47a9-9624-43044554e3b5,2272bdf8-75f6-4a73-b2e8-a4da7638b7a5,Ansar Yasmin,ansar.yasmin@hyperisland.se,ONSITE
+47551f18-7fde-43e7-a023-05344acddd75,36db7a9e-9ac0-42f6-95c7-3681453fc305,Carl Rickmon,carl.rickmon@hyperisland.se,ONSITE
+a3ffc724-906d-467f-b53d-7a74aea197b2,a8bb9478-a455-4fda-88ac-1ca2c03c28e6,Cláudio Rosa,claudio.rosa@hyperisland.se,ONSITE
+b2ecc1a4-3fc6-44e1-8874-77d45330c3b5,5b5f0659-e946-48c0-8318-7cf1c7e54d8c,Eleni Kontou,eleni.kontou@hyperisland.se,ONSITE
+60fe188e-dbde-45b8-8613-0ae7b4b2b1b8,6798577d-13ad-49fd-baf6-3129e962c768,Emy Hildeman,emy.hildeman@hyperisland.se,ONSITE
+d6d14523-b254-483e-88c4-0d21116b7c3c,3ad96f98-65ab-44f5-88a0-28de777c77b8,Eva Mayer,eva.mayer@hyperisland.se,ONSITE
+af617808-6392-47ae-a3d6-c551aefea937,3f08361a-35a5-4804-b116-d8aca756ae3e,Fereshteh Mohammadi,fereshteh.mohammadi@hyperisland.se,ONSITE
+924f2bda-821b-42c8-a5ff-020d278159c7,74dd981e-6c43-4988-bca9-f7951a36357a,Guilherme Donati Bracco,guilherme.bracco@hyperisland.se,ONSITE
+8072f4d5-61c0-4495-911e-0477161ca655,1b034bed-395f-45b1-a1b6-f19d2bda3866,Hessam Ghaniyi,hessam.ghaniyi@hyperisland.se,ONSITE
+38305cac-3d22-48e1-af8e-df155038ff94,8a646c8a-28a6-4bb2-9b45-b0bd766aa4c4,Idil Omar,idil.omar@hyperisland.se,ONSITE
+13a442d7-81e7-40bc-865a-41627e308f87,78d40786-40c3-4e82-8c04-6ac047382196,Jacob Einebrant Aspaas,jacob.einebrant@hyperisland.se,ONSITE
+cea8d1e1-2735-4a77-b9af-81661ae3b583,f5af5ec9-b83a-48ae-8a2f-c3f6f3f36d70,Joel Nilsson,joel.nilsson@hyperisland.se,ONSITE
+180af5dd-918e-45f9-88b1-90a66f137039,aaf5e384-de46-4758-b9dd-630dabeb0f44,Jonathan Devli,jonathan.devli@hyperisland.se,ONSITE
+f693475b-4b77-4fd3-bd26-699e08c1dc4d,252bf2aa-95a9-450a-a59d-27f3eaef47c0,Kazi M M Alam,kazi.alam@hyperisland.se,ONSITE
+0e0b17b9-feb0-4625-9c68-16e19a6a6615,c2060502-2773-429b-a971-0a53a9a0df71,Kinza Shehzad,kinza.shehzad@hyperisland.se,ONSITE
+99e84782-0bab-425c-9c22-78072406bbd7,37d83cdb-a71d-4ed5-bb20-37817a033bd1,Lovisa Boberg,lovisa.boberg@hyperisland.se,ONSITE
+a10bc3d3-0476-4500-91a9-fde12192e387,83f9ab9a-9aff-421f-85ec-dea9fa9a341a,Martina Guerrieri,martina.guerrieri@hyperisland.se,ONSITE
+77f0da6d-9d03-40a8-9e51-a7077e521093,2d5e8d8e-b838-450b-952d-ef6918647c7d,Max Bindon,max.bindon@hyperisland.se,ONSITE
+cc3d79c5-2631-481e-8d46-c778ee5b009a,e96f5d83-50be-4a58-9316-fd961f1b4ccb,Michael Garnett,michael.garnett@hyperisland.se,ONSITE
+a6e21d73-5df5-4bd0-a463-de09860173e9,8836aa93-950b-4c32-a399-e4582ce2705a,Milad Noori,milad.noori@hyperisland.se,INTERNATIONAL/ONLINE
+416b0c37-a58e-497c-8af6-f1873d8bc1e9,c35c3974-5f2c-4762-8019-8f773b6cc407,Milena Minic,milena.minic@hyperisland.se,ONSITE
+8c45fa6a-0494-4f4e-b841-e0eb5c5572d3,d8d2c112-33ad-45e0-bb2f-43ef5340cfc2,Milton Strandberg,milton.strandberg@hyperisland.se,ONSITE
+bae259c4-55a5-4802-b644-4ba3e52ffe11,8e4d5e2f-2e40-424f-aac5-9c97729d6fec,Mohammad Reza Salarkarimi,mohammad.salarkarimi@hyperisland.se,ONSITE
+f8903ccb-6afd-4d99-868f-8964b1c1ef88,d4fd2137-b60c-41a8-9f75-74da144327fc,Muhammad Imran,muhammad.imran@hyperisland.se,ONSITE
+1275b8ae-98b5-431d-8c8b-53ceadac7777,58cbd02a-3235-4a71-a851-6f0b3356898c,Natalia Zaliskovaia,natalia.zaliskovaia@hyperisland.se,ONSITE
+0d0d6455-23fa-4c10-97bb-d1a91c53b613,1763f498-ef3b-41ea-af78-d93e14812f12,Neha Yadav,neha.yadav@hyperisland.se,ONSITE
+c991a2ba-3806-4284-850a-d8e9f0d7016f,866e7d7e-2330-4ccf-bac6-daeebb66e5c2,Nils Kjällström,nils.kjallstrom@hyperisland.se,ONSITE
+8c4aeb1f-4213-437c-9d2e-ff25e3b83b5f,0fef6b72-07d8-4408-9979-da191c250ddf,Nina Hulmanova,nina.hulmanova@hyperisland.se,ONSITE
+fc36ef8d-d6ca-4e2b-8007-270da11a07ac,cd32ca90-e057-4147-880e-099f04310b4e,Pamela Maunes Gumera,pamela.gumera@hyperisland.se,ONSITE
+731e9fe0-601c-4238-b953-d006884f6d21,ce19eb79-583a-4fd6-a216-47c19bbd6ea8,Qian Ding,qian.ding@hyperisland.se,ONSITE
+db358b01-4f74-491c-ad0e-bbb437a940a7,075fa4ac-8e45-4ff4-b83e-25c3bf196dda,Rufta Zeray,rufta.zeray@hyperisland.se,ONSITE
+b3c3e634-2d8d-47b1-aa79-ec29e8245a1b,43d93276-c53a-496e-808e-6b575a51b7db,Shahzil Athar,shahzil.athar@hyperisland.se,ONSITE
+63cdce37-043c-4d1c-b576-8becdb6c78ec,7808700c-fa96-4fa4-91d6-10c4073280d9,Shoja Narges,shoja.narges@hyperisland.se,ONSITE
+0e4e46b3-089e-42ec-b3f4-eba0b8ceba85,93b107fe-b7a1-4fcc-beb8-19d2a2e6df02,Sina Abrishami,sina.abrishami@hyperisland.se,ONSITE
+00e82e5d-ebb0-4c45-ae13-a38d314f3f05,160a1924-aa46-4d25-9b2d-c3829a556361,Tara Younan Yalda,tara.yalda@hyperisland.se,ONSITE
+024e73f7-ad35-4f71-b3d9-94575832c7fc,60418f65-4c22-448a-8617-caad86ac6040,Tarique Inayat Bhutto,tarique.bhutto@hyperisland.se,ONSITE
+8a63aec6-b186-40da-a424-e6331ad97780,a845d451-529a-4f2d-8892-4b78ba0739fa,Yifan Yang,yifan.yang@hyperisland.se,ONSITE
+2a4e1fb2-98dd-44f2-b01a-1654b36b8236,ed0295c7-fab9-45c8-8317-c8d20c87bdf3,Zohreh Pirhayati,zohreh.pirhayati@hyperisland.se,ONSITE

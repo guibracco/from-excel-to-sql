@@ -1,0 +1,1001 @@
+StudentID,Gender,RaceEthnicity,ParentalLevelOfEducation,Lunch,TestPreparationCourse,MathScore,ReadingScore,WritingScore
+cca2c551-8806-49c5-92a6-975cad5fd5e6,male,group A,high school,standard,completed,67,67,63
+c9c2df6e-c65a-4882-b740-c1306db69fb8,female,group D,some high school,free/reduced,none,40,59,55
+15406db2-432e-4d21-8ef9-16795746fa1b,male,group E,some college,free/reduced,none,59,60,50
+c67d42f0-049a-47bd-9322-da30d30714ab,male,group B,high school,standard,none,77,78,68
+9b2ec239-4afd-4300-856f-d33f9a96f19e,male,group E,associate's degree,standard,completed,78,73,68
+7c913e9a-f44d-4f34-80d5-f50430d785e1,female,group D,high school,standard,none,63,77,76
+ad1e82b3-e613-4006-a52f-1e64d84ccb00,female,group A,bachelor's degree,standard,none,62,59,63
+1182bc02-b229-4f54-9487-3d6896f9b10e,male,group E,some college,standard,completed,93,88,84
+e98a0b0a-88b9-4099-916a-ef3bef17a6b4,male,group D,high school,standard,none,63,56,65
+3bf5f8c6-9f67-4cb0-a0c5-ccf5e709bb23,male,group C,some college,free/reduced,none,47,42,45
+110b3a2e-a13b-4aca-8d56-03313c83f8fd,male,group E,some college,standard,completed,99,83,85
+5bf98582-fa29-4f89-8afc-bd5cbe1b5571,female,group D,high school,standard,completed,80,87,90
+f0d7f4df-3f59-4202-90c9-9d121646248e,male,group D,associate's degree,standard,completed,77,87,85
+73a8b1de-1964-4dbd-a6ff-a44580d21241,male,group C,high school,standard,completed,74,74,73
+cef9091a-0267-4896-b002-d411d95bc7db,male,group E,some high school,standard,completed,81,87,85
+b381eec3-c86c-425f-a251-ea0b23c4150c,male,group E,associate's degree,free/reduced,none,69,61,57
+ff3abdbf-056f-4c18-a089-52a75155c9c6,male,group B,high school,standard,none,58,47,42
+a59bae91-82c3-433b-854b-9a86139649cc,female,group C,associate's degree,standard,completed,54,62,65
+0a008aae-22a9-4352-b9bb-d0b195703107,female,group C,associate's degree,free/reduced,none,23,44,44
+b3d30dd5-010b-4221-aa8a-77d492f7cd56,male,group C,some college,free/reduced,none,39,32,31
+6f4ccb4d-8399-4531-b37d-8cc31fbad16a,female,group C,associate's degree,standard,none,83,76,88
+6777abb7-75b4-4d06-a376-abca70df7421,male,group C,associate's degree,standard,none,58,52,55
+8577acf4-f5da-44d5-8a53-208076e0f899,male,group B,some college,standard,completed,71,69,73
+d22de431-add2-4bf3-b575-627e2fa53b09,female,group B,some college,free/reduced,none,44,55,54
+fc7748b5-cb44-4dbd-b23e-8a732f1559a9,male,group E,some high school,free/reduced,none,46,38,32
+042a76ae-6a95-41d5-b684-c71e42df9bae,male,group C,high school,free/reduced,none,51,45,42
+09a30e88-dfb2-47a9-9624-43044554e3b5,female,group C,some high school,standard,none,53,60,56
+90659ed6-24ae-41e8-b92b-cf8df7c64577,male,group E,high school,standard,none,71,68,60
+7172a175-62f9-43e4-abc9-e819d7dbda02,female,group B,high school,standard,completed,74,89,89
+7eeea8fe-2624-47ff-8dd0-2690b21b06a6,female,group A,some high school,free/reduced,none,33,54,51
+601086a2-c52e-4e63-9380-2ff14c1976c6,male,group B,some college,standard,none,87,79,77
+9ada9871-0b17-4196-ac98-aa1305e9887f,male,group A,bachelor's degree,free/reduced,none,78,74,73
+73ff2375-fa5c-4179-9d63-7bbf21e0ef39,male,group A,some high school,free/reduced,completed,40,41,39
+4f500c15-b0a9-44da-bf97-000f41ef3a26,female,group B,associate's degree,standard,completed,65,65,71
+ace74b05-5e5d-4ac4-abe8-7284d770f90a,female,group B,bachelor's degree,standard,completed,79,88,89
+85d09a88-14ca-4ab9-88fe-072ed09f8335,female,group A,bachelor's degree,standard,none,68,74,74
+c65616d9-fe21-49b1-98e5-cc5d09d93c70,female,group C,some college,standard,completed,57,77,75
+6433076f-bbcb-49be-98a4-f0b618075667,male,group B,high school,free/reduced,none,67,65,54
+815d0573-46ed-4756-b11a-b6220879a856,female,group B,some college,free/reduced,completed,58,68,73
+84b7943c-62bb-4f0d-8363-0088007f695e,male,group E,associate's degree,standard,none,98,81,77
+26d382c8-875c-43a0-b635-cea511f079f5,female,group B,master's degree,free/reduced,none,54,75,72
+320e4215-1bd1-4905-af39-e2ba63ffba0f,male,group D,high school,standard,none,77,67,64
+3fe13cf8-6bbc-4376-8fa8-ac7111e73916,male,group E,high school,standard,completed,87,79,82
+9b95756a-bf10-489c-b361-0ec4494853ec,female,group C,master's degree,standard,none,58,70,70
+918a13a7-c5ae-4611-b859-40f8261d9663,male,group E,high school,standard,none,100,88,87
+440724a7-3701-4f20-be29-bb86483f7e05,male,group C,bachelor's degree,standard,none,60,46,51
+ebdc0106-07f5-470e-aef6-3a2fe4b489f8,male,group C,associate's degree,free/reduced,none,64,63,57
+659e9cf1-7114-4add-9fec-8dbbad30dd25,female,group E,some high school,standard,completed,65,76,78
+db49b39e-daa9-4c80-9282-71ef3ead2140,female,group D,high school,standard,none,68,72,73
+952f60f5-f95d-44d4-9402-e93ae233305b,male,group C,associate's degree,free/reduced,completed,60,63,57
+c7d57848-607f-4d9a-8162-8627ab8beaab,male,group D,high school,standard,none,65,68,64
+21a0cfd2-a254-4821-9da6-9c20da3800f1,female,group C,some high school,free/reduced,none,52,58,60
+b3aa33eb-3193-450b-ade6-aa73cb724cbe,female,group C,associate's degree,standard,none,74,81,85
+38d82d75-e865-42ab-8197-d6c8f560c63f,female,group C,high school,free/reduced,none,36,53,49
+9209e740-3788-4f55-9c0a-559f3afa8d1d,male,group D,high school,free/reduced,none,57,57,47
+5afeb4bb-b3b3-47cb-8a61-8d4ab6ee2d3c,female,group C,some college,standard,completed,56,60,62
+fdb34ebe-a1c6-498b-aa38-c7d9426543f6,female,group C,bachelor's degree,standard,completed,67,80,84
+237096b2-48b6-4882-9edd-cfd9aa536ac8,male,group D,associate's degree,standard,completed,88,87,83
+d002126b-7e56-4337-9a2f-40c0dc327f63,female,group D,some college,free/reduced,none,42,61,51
+665d25cf-1526-4282-9fbc-c37fc0117efb,male,group E,some high school,standard,none,68,51,48
+5d2bc302-fdbe-4482-ba37-ed6dc277ef9a,male,group D,some college,free/reduced,none,76,66,68
+19a2e65e-8a6a-4863-9da2-9a62535b1c07,female,group E,some high school,standard,none,58,63,59
+5831dd3d-22ce-42b6-b2f2-3f7afa7ab310,male,group E,some high school,standard,completed,69,67,62
+5c0815fd-36c1-4a25-9367-0504c4e6b446,male,group A,bachelor's degree,standard,completed,77,82,78
+180af5dd-918e-45f9-88b1-90a66f137039,male,group D,master's degree,standard,completed,83,93,97
+01484e89-2b1d-4fc8-a608-3de323451384,female,group C,some high school,free/reduced,completed,49,74,70
+bae259c4-55a5-4802-b644-4ba3e52ffe11,male,group C,high school,standard,none,71,60,56
+6339a4cb-e041-4da7-90c9-91efb3d73a02,female,group D,some high school,free/reduced,none,47,46,49
+acb24a31-5b45-460a-b366-dab61739879f,male,group B,high school,standard,none,79,64,60
+4d7eda77-0b83-452a-9200-a05881471c7a,female,group C,high school,standard,none,60,64,57
+4e09c82f-2360-4996-acbb-f230e22a4012,female,group C,associate's degree,standard,completed,56,68,73
+9a7c6c10-cb4f-4e0e-b8e9-1f0cc821125c,male,group C,associate's degree,standard,none,57,52,47
+6da8f8c6-5cd8-4a86-9d17-0a55f11cd029,female,group B,some college,standard,none,49,70,63
+c4355835-6bfb-48e8-bb27-28a99bb1c20b,female,group C,some high school,standard,completed,79,76,81
+c7bceeec-21e2-40e5-bfbc-0de16e107121,male,group B,master's degree,free/reduced,none,71,76,67
+fe686bd7-1369-4a24-90af-43a45924efad,female,group C,high school,standard,none,71,77,70
+a62aafa4-929a-4316-b729-23bfb347f46d,female,group C,some college,standard,none,47,63,59
+b1bfbe4a-9940-417f-8402-4e33e14d8cc2,female,group D,high school,free/reduced,none,72,91,81
+e7aceb01-13f3-45b1-b312-e12a4d697ef9,male,group C,associate's degree,standard,none,78,73,76
+59b7b3db-a5f2-4484-ab6e-58525b773237,male,group D,some high school,standard,none,54,43,45
+9f0c54d2-e66b-4612-8ddc-a20d1c5dfd97,female,group B,bachelor's degree,standard,none,46,59,62
+1f9b91b8-bfe1-43e6-a858-e46bdabf7e9a,female,group D,some high school,free/reduced,none,31,38,42
+d02e4672-68e7-4caf-8853-913d83e8b029,female,group C,associate's degree,free/reduced,none,51,59,59
+b7d578a3-d977-4665-8430-dcabea9746ce,male,group B,high school,standard,completed,78,76,73
+b8aad31c-2b7c-4719-b564-842dbcab5976,female,group B,associate's degree,free/reduced,none,32,41,39
+dc51e699-6ffc-461e-8c3a-b7cf16195436,female,group C,some high school,standard,none,53,71,69
+9ff0207d-68ab-4326-aece-2554d2b9af9f,female,group C,some college,free/reduced,none,63,76,69
+039b07c9-ea6a-4723-ad45-77b0f5dbf865,male,group D,some college,standard,none,97,93,88
+6a3d22e2-20df-4b64-93be-23d417154c80,female,group D,some college,standard,none,56,52,61
+5b8d7c31-8619-4281-a6ac-2637ad08cc7d,male,group B,high school,standard,none,72,76,72
+b58a67c7-cc63-493e-b49c-f2a7bc243917,male,group C,some college,free/reduced,none,57,47,42
+174a53ac-ebb0-4f9f-94a1-8e574696a29e,male,group B,some high school,standard,none,74,71,70
+fe535e7b-2271-4e3b-aadc-cab07f46448f,female,group D,master's degree,standard,none,81,81,87
+e08de7ca-22eb-4122-a8cb-b9688bd54b11,male,group D,bachelor's degree,standard,completed,94,87,93
+c94a405b-b79a-4e4f-8ee3-700b2b1c3d2d,male,group B,master's degree,free/reduced,none,81,73,72
+75a471c7-fdea-45df-bc61-0c308591e226,female,group C,high school,standard,completed,58,63,67
+c291f8f4-1cbc-4af4-bfc9-553f073a76d1,female,group E,associate's degree,standard,completed,95,100,100
+b94480af-7869-44cd-9d7e-7efd9ada5db1,male,group B,high school,free/reduced,none,45,52,49
+48ad78b7-45e4-4c91-81ae-c26b7e9ff313,male,group A,some college,standard,none,63,50,49
+3e115914-6b1a-42cd-8384-d1a34b626403,male,group B,associate's degree,standard,none,60,54,53
+5fbad80d-3fe1-4baa-bdf5-3746846f3305,male,group C,some college,free/reduced,completed,54,61,62
+bea1fda1-6184-4283-b964-73a3a7d15c1d,male,group C,some college,standard,completed,75,78,79
+97f775d1-1c1c-4f26-b3c3-2553973e1aa4,male,group E,high school,standard,none,79,78,77
+fef3f400-41ee-4894-a92e-1f9922da9b73,male,group D,high school,standard,none,66,67,67
+09f44147-e585-4fa6-a864-57f680f31c0c,female,group B,some college,standard,none,47,58,58
+931d6463-7cea-4c25-a3c5-24ab5a135e84,female,group D,bachelor's degree,standard,none,70,78,82
+96a5fb54-5dd0-4970-96bd-a74b55d34664,male,group D,high school,standard,none,82,74,73
+15152617-5da7-483b-963e-6c5bde3887e8,male,group A,bachelor's degree,standard,none,56,38,44
+6707218b-6e16-44d0-ac26-422554f1fa57,male,group B,associate's degree,standard,none,92,78,71
+42180711-6717-4d6c-a272-b745deb11793,male,group C,some college,free/reduced,none,30,33,33
+d682d12d-10f1-4a5e-953c-c8d2d9ce54dc,female,group C,some college,standard,completed,79,88,86
+de194b5c-752d-4c64-8c3d-c4319a93e2e7,female,group D,some high school,standard,none,41,52,47
+063fff23-ef4a-434c-8b7b-c0838717f2ef,female,group C,master's degree,standard,none,63,82,71
+0e410523-151b-4956-9b68-a21f13c553a4,male,group A,bachelor's degree,free/reduced,none,43,34,33
+d94c4a91-dc6d-4e61-b78a-63685b3c90f3,male,group D,high school,standard,none,77,76,74
+9bc05444-a0b8-4c76-b62c-4597c73b1988,male,group B,associate's degree,standard,completed,76,79,76
+a799cd2c-cea5-4031-8731-344feb0b45df,female,group E,some college,free/reduced,none,49,61,63
+584caf95-e7b6-41ee-a5ca-687d15c3b7f1,male,group C,associate's degree,standard,completed,59,57,55
+6bb58c63-2eca-42d9-8ed3-5c2c7bb5e821,male,group B,bachelor's degree,free/reduced,none,59,70,58
+5448b239-a3a7-43eb-856e-e6452716bd6a,female,group D,some high school,standard,completed,76,90,87
+e1689439-9813-4492-a0ac-c60d065f6bad,female,group C,high school,standard,completed,55,71,71
+4e594693-1693-4410-841b-34c3758044b5,female,group D,bachelor's degree,standard,completed,78,87,89
+f323a71f-822b-44de-9630-eb6f79aad4c3,female,group C,bachelor's degree,standard,completed,51,53,62
+6a9b9950-bc63-40eb-be1d-8d2882fcdc24,female,group C,some high school,standard,completed,41,43,45
+f3a3858c-f965-47bc-9ab6-cc031bb43692,female,group D,associate's degree,standard,none,74,78,86
+2e476cc1-221d-4316-8a6d-ebb9cae3d533,male,group C,master's degree,standard,none,62,54,58
+3945fad5-2f09-42cb-afe5-87d508e98a1f,male,group D,associate's degree,standard,none,77,71,64
+6b8df2e9-8338-4642-b5e4-d4f8c53c4e44,male,group C,some high school,standard,none,45,52,45
+c6dfe167-9b21-42be-9dec-320d0dfcce6b,male,group E,some college,standard,completed,100,84,87
+ac7daca5-8063-4bce-a7bf-96a8b515f688,female,group D,associate's degree,free/reduced,completed,83,95,100
+59b5bd55-463f-4a31-8635-d3d6ff929fac,female,group E,associate's degree,free/reduced,completed,77,75,82
+2ef31f8b-8f7b-431c-9315-7b2a5d1a8431,male,group C,high school,standard,completed,66,70,64
+2436289c-147f-4aa2-b2a8-8e2195cf35fb,male,group B,some college,standard,none,65,63,57
+a21113a8-0331-4577-b2b1-874df7234ac5,male,group D,associate's degree,standard,none,62,55,56
+f7190662-c94a-4116-a709-37faf4dc5883,male,group E,some college,standard,none,55,54,54
+1176340a-b9df-416b-81e8-2bbf93827f33,male,group C,some high school,free/reduced,none,73,78,69
+1701c322-d2ad-46b5-a83f-8a0f2ae0ca7a,male,group A,some college,standard,completed,73,81,76
+eaa1963d-ba08-48a2-92a5-511e0b3561ab,female,group B,associate's degree,standard,completed,48,66,68
+abdacfd5-a3d2-4fc2-87f2-d018e31a555d,male,group D,some college,free/reduced,none,52,44,49
+4c91303d-5fa1-448e-a360-9fd07f1581c6,female,group C,some high school,free/reduced,none,60,72,64
+cc76cf7e-a353-4ea8-ab75-630addba900a,male,group B,associate's degree,free/reduced,none,68,63,57
+9e2ee72e-7619-4f29-b1c1-6a606ac2bd6a,female,group D,some college,free/reduced,none,65,77,83
+e0e13eac-5923-4e8d-a3f9-37f2309cbb22,female,group D,bachelor's degree,standard,none,86,83,87
+239618a1-543e-4c47-a8c7-da4bcbec5615,female,group B,associate's degree,standard,none,55,62,60
+7c02f2e4-8ec7-4603-9bf3-da901febdbbe,male,group B,master's degree,standard,completed,80,71,68
+245b2b5c-c065-430d-afb6-ac1e71000cef,female,group B,high school,free/reduced,none,51,57,57
+44952254-5492-4f63-a6c7-3a90078b1e56,female,group B,some high school,standard,completed,63,61,66
+1a490124-6054-43a4-991a-4b2efbdc8e2c,male,group E,some college,standard,none,60,55,46
+f448927d-6a0e-46f6-a5dd-7069519ed9a2,female,group E,bachelor's degree,standard,completed,100,100,100
+dd9d7b36-76bc-4dc7-a0f0-5ee3d92316e8,male,group A,associate's degree,free/reduced,none,46,44,44
+3c1165a2-754e-4067-903b-f6d766b6e145,female,group C,some college,standard,completed,67,78,80
+1b69f25e-8b44-4d39-bdfe-4868296808c8,female,group C,high school,free/reduced,none,54,67,59
+2093c0d4-9928-449e-81c7-96e99020aede,female,group B,associate's degree,standard,none,63,79,76
+1fb3f417-854a-40f3-b66e-69c78801f243,male,group D,bachelor's degree,standard,none,68,66,73
+cd6e755f-d9d1-48d7-af6c-992359f5ff46,female,group C,associate's degree,free/reduced,none,54,63,58
+48a47160-2257-437b-a3dc-068f731f272c,female,group C,some college,standard,none,43,44,47
+a5a9b74a-b7fe-4819-9423-7773baf7e298,male,group B,high school,free/reduced,none,64,64,59
+58b503b6-948c-43bc-9662-d5607b8ebca8,female,group E,associate's degree,free/reduced,none,92,87,87
+718d5caa-b2bf-4b71-aca2-3641406f3881,female,group D,associate's degree,free/reduced,none,82,95,93
+9b8e5cf8-3845-41e2-a663-4c07ca71bf0d,male,group E,some high school,free/reduced,none,84,78,79
+c940555e-66a0-4d51-b7a2-74ab7bcc5e28,female,group D,associate's degree,standard,completed,84,98,97
+7cf9eda8-a0c0-42ed-9e4e-05805731b391,male,group D,associate's degree,free/reduced,none,65,63,65
+7264dead-d2dc-4cd2-9192-f10f71a78400,female,group C,bachelor's degree,standard,none,83,92,91
+021b12e3-6bb1-42f0-9cc7-809495032042,female,group B,some high school,standard,completed,70,75,75
+29039f43-cb21-4124-9ad9-1e58d619c56f,male,group A,bachelor's degree,standard,completed,66,72,70
+77023528-d9df-4a48-8bfb-ad1218c7c330,female,group D,bachelor's degree,standard,completed,71,87,92
+2f2f3c97-9a8b-44a7-bc5e-01b190de7c32,male,group B,bachelor's degree,standard,none,66,64,58
+b05ce038-642d-4781-a73a-a794d6949771,female,group B,some high school,standard,completed,57,64,68
+342611eb-9c7c-48dc-b5eb-5a4646d537d7,female,group C,master's degree,standard,none,86,90,93
+02127c35-c479-4afb-9466-c37a387617a9,female,group A,high school,standard,none,80,85,83
+af5c0f69-8b9a-4bab-a3b5-b74c512f65a1,female,group B,high school,standard,none,62,60,59
+4444eba7-6a90-42b4-adf2-3523302e0d1e,female,group D,some college,standard,none,71,71,76
+5945bdfc-6fe9-4687-aeab-a3473daa6c4b,female,group C,some college,free/reduced,completed,57,66,71
+7db31155-d892-420e-94b9-4678e8c3181e,male,group A,some high school,free/reduced,completed,69,64,62
+f0a56116-f74a-495f-bb27-1ed704bb6788,male,group B,some college,standard,completed,83,74,72
+c83781a5-96b6-4a41-a05e-6503584bf381,female,group D,some college,free/reduced,none,50,56,60
+50110d56-7f32-4812-b92d-c302b5194b39,female,group C,bachelor's degree,standard,none,55,56,56
+6d75007b-ba48-4780-bedd-887a7bd9cf9c,male,group B,some high school,free/reduced,none,55,53,51
+96b76527-a830-4444-90d8-d2a0e752089c,female,group D,some college,free/reduced,completed,83,93,95
+b41146aa-ae74-4ac5-8697-c45568b64fbb,male,group D,high school,standard,completed,89,87,86
+0defdb1b-7b2e-4eb5-8794-4523bd04b4bb,female,group D,some high school,standard,none,51,62,64
+1e8e01c2-3722-4576-a647-43b69ea8d870,female,group C,some college,standard,none,48,52,49
+7d0a7a64-776c-45fa-9d78-6fe31927d5ba,female,group E,bachelor's degree,standard,none,84,95,89
+e264e307-4bad-4a76-b73b-678cb92ad1d9,female,group C,associate's degree,standard,none,69,83,76
+4f25219d-2824-4941-8cc2-6d41813affaf,female,group C,associate's degree,standard,completed,75,85,87
+8a47de7a-336b-42d0-bcae-cbf40b2d175e,female,group C,master's degree,standard,none,91,100,99
+2d0f777b-4bf9-4a64-b8a3-e82a48d0d68d,male,group B,high school,standard,none,76,77,67
+98053b64-0b8b-4c1b-a738-338696d41a41,male,group E,some high school,free/reduced,none,63,61,59
+59a24f7c-76cc-4d43-a1ab-c7d08f991d93,male,group D,high school,standard,none,73,65,64
+bcd545f6-20dd-4b0e-b26c-e8ee5cc018e7,male,group B,some high school,free/reduced,completed,52,63,53
+a14f1f76-9d84-4fe4-b4b1-7b3949266a84,male,group B,some high school,standard,completed,58,57,53
+60057d9e-0def-4315-af60-da2b04b51eef,female,group B,some high school,standard,none,33,51,51
+7a82619c-5d2e-44c4-bfcb-53b956b51550,male,group E,some high school,free/reduced,none,68,62,61
+af617808-6392-47ae-a3d6-c551aefea937,female,group C,associate's degree,standard,completed,77,91,89
+00e82e5d-ebb0-4c45-ae13-a38d314f3f05,female,group C,bachelor's degree,standard,none,64,64,66
+a2e453a3-451e-4d01-b2fa-369ea2c41293,female,group D,some high school,free/reduced,none,39,49,48
+b8ce0954-597c-4434-a22c-aa129ee989cb,male,group D,bachelor's degree,standard,none,50,46,48
+37961065-d3ad-4205-a37c-cbb547ebe45a,male,group A,master's degree,free/reduced,none,53,57,51
+2b4c7b9a-7dc5-49a5-bf21-a281669e86ee,female,group B,associate's degree,standard,completed,54,62,70
+b5dd2d3e-49d1-4b9a-9ed6-c21851056c86,male,group D,high school,standard,none,74,63,65
+ff7c656d-a236-47a9-8fb3-b012da686bf2,female,group D,associate's degree,standard,completed,50,63,65
+933c75c0-4066-4139-9017-6417835ef989,male,group E,associate's degree,standard,none,55,54,47
+cda12ad3-9105-4640-ada6-7c6e0729ff16,male,group C,some college,standard,none,77,64,70
+ce673abf-4972-4cfe-9518-05bda3119e20,female,group B,some high school,standard,completed,49,64,67
+197a0f5b-29ce-4fb0-adda-458f8342a057,female,group D,associate's degree,free/reduced,none,66,83,82
+ec271a98-b266-4923-a435-eafe50a035a3,male,group B,some high school,standard,completed,77,74,75
+0258d71e-8d2f-46dd-8cac-cf2bcefea673,female,group A,master's degree,standard,completed,74,78,84
+1433dc84-1f61-4f30-856c-d0fd94e94509,male,group C,some college,standard,none,85,78,81
+ffb5ba0c-8f03-4fe3-83ce-eb39eb915007,female,group A,some college,standard,none,77,86,84
+26dcd33c-0a4f-4934-85a4-cd917b16457f,female,group B,associate's degree,standard,none,64,62,66
+e8b80315-11ec-4aad-baba-d00a4cf55c8c,female,group D,high school,free/reduced,completed,61,69,68
+f4a1648b-60d3-428b-b6bf-ab21b1a4ce57,male,group D,associate's degree,standard,none,97,88,85
+f856b211-7451-45fd-a3fd-e26e4fbf5142,male,group C,some college,standard,completed,66,75,70
+42c4b097-a8f5-4c38-8a64-8a172dd1ca2e,male,group C,some high school,standard,none,62,66,64
+733cb058-34ed-42a0-b2b8-a9acf3f1eb8e,female,group E,some high school,standard,completed,64,80,77
+9736bd15-5838-416f-91f0-f5f104dca3ef,female,group B,bachelor's degree,free/reduced,none,55,57,60
+00632066-1893-460f-9c3a-dace01c060be,female,group B,associate's degree,standard,none,53,72,66
+74535c0c-ad0c-48fa-9567-0bec2ba7ee5b,female,group D,some college,free/reduced,none,71,81,77
+f16ba662-f60f-4032-aa04-80b6167e24b2,male,group B,high school,free/reduced,completed,66,59,68
+f7b23b71-f8ae-46c3-8bb5-fa24f7facc44,male,group C,associate's degree,standard,none,68,61,62
+216c05a4-f34f-471c-b4a3-9893e0953bdd,male,group D,some college,standard,none,89,90,83
+edc234bd-6275-4e37-afcf-e95dfd68eb74,male,group C,associate's degree,standard,completed,65,69,74
+c6b72d89-78f3-4aae-a91e-8ddf47483cd5,female,group B,some high school,standard,none,43,48,44
+2001a3c3-e325-4135-be83-3671769a7ab7,female,group D,master's degree,standard,none,79,77,83
+b5cf0a42-94a1-4da9-b85e-434fb92e7b82,male,group D,bachelor's degree,standard,none,99,94,97
+c2c97731-e9ce-4549-ba43-ee8690b122cd,male,group D,some high school,standard,none,82,69,72
+1fa9166c-45d1-40c8-b479-de8d20a5a974,male,group D,some college,free/reduced,completed,35,36,39
+7a78065c-1c33-4d25-9aad-6355a0fd5f37,female,group D,bachelor's degree,free/reduced,none,61,71,73
+ae856cfd-1c6b-40be-846d-287b03b7980c,female,group D,high school,standard,none,76,80,81
+cd355354-7e68-45fe-b325-cfa944474764,male,group C,associate's degree,free/reduced,completed,94,83,82
+1be991ac-c39b-4ddc-a3d9-d9fe56d9e303,female,group C,high school,standard,none,75,90,78
+24cfaadb-8c58-43f2-888d-48788893fb4f,male,group B,some college,standard,none,81,75,70
+3e1cf721-8990-43bd-8b15-0908a38844fe,male,group C,some college,free/reduced,none,35,44,33
+29db4df8-14e3-4b51-bcb1-975bd24b519e,male,group C,some college,standard,none,76,74,72
+2a7af1ee-0f1c-4ef4-a38f-bbc019a111d1,female,group B,bachelor's degree,standard,none,58,79,82
+76f1d1b6-cd9c-49d6-9fa9-a8144a79c608,male,group C,associate's degree,standard,completed,100,91,90
+6b90f7ec-9b84-4364-8515-b427bc74e298,female,group C,bachelor's degree,standard,none,53,68,64
+4a4c75de-b676-45e2-9a80-6b19f4764235,female,group D,high school,standard,none,82,95,96
+635786e2-db1b-417f-a929-4fdec1b18c42,male,group B,associate's degree,standard,none,76,62,64
+25a3f878-74c2-45df-8284-3f06b2c822be,male,group C,bachelor's degree,standard,completed,83,75,75
+38305cac-3d22-48e1-af8e-df155038ff94,female,group D,some college,standard,none,72,84,82
+4e351733-8aba-4c3b-88c9-4c25dcbcf76e,male,group D,associate's degree,standard,completed,76,76,83
+c0383548-d007-4ce7-b885-bdf717c9582c,male,group D,some high school,standard,none,66,64,58
+2bd8dae2-fa02-4bc0-afcf-dff1ce3b3726,male,group C,some college,standard,none,63,65,63
+2cb4c4e6-1b66-44c7-b1ec-285e9f39557e,male,group B,some high school,standard,none,36,34,28
+57b7b04e-d2d0-487d-ac6b-9194d02e2123,male,group C,high school,standard,none,68,74,71
+17986f2e-75fc-4587-8e1a-a2dbae7a44fc,female,group C,some high school,free/reduced,completed,40,52,42
+f0056bc1-9c07-4a12-a889-0c10571b9baa,male,group D,some high school,standard,none,68,71,61
+e63dc469-7482-47dd-9635-20f661e9345b,male,group C,associate's degree,standard,completed,56,54,52
+d17e4bc2-51b5-4f1b-bc86-1156cd0f7dba,female,group D,associate's degree,free/reduced,none,74,83,80
+731e9fe0-601c-4238-b953-d006884f6d21,female,group D,some college,free/reduced,none,53,70,71
+4411e23f-a43c-451c-bb70-1c0676bee2d6,male,group B,some high school,standard,none,88,65,70
+d4ad3aa1-5577-4e07-af1a-372d241a2af6,male,group D,some high school,standard,none,67,63,61
+a1a380d1-807e-4c5e-b18f-609d64bbccce,female,group B,associate's degree,standard,none,60,76,65
+2f71d37e-c545-4727-af46-46e8a4ed2ea1,female,group C,high school,free/reduced,none,51,61,54
+54647cb1-489f-48f5-a546-58d0b2d1257e,female,group D,some high school,standard,none,53,66,59
+2ff1c689-5998-4efa-96c7-0530a2b5e358,male,group A,bachelor's degree,standard,none,80,78,74
+bc9861eb-2396-4dca-a4e4-b1020c468524,female,group E,some high school,standard,none,69,71,67
+5136c437-19a7-4672-8eeb-6c318ee691ce,female,group B,some high school,free/reduced,none,64,79,70
+ecae2bc5-b4c2-406b-aeb7-bb18718ec38e,female,group D,associate's degree,free/reduced,completed,80,87,89
+cc0294dd-0cb8-4c24-86b3-8044623bf779,female,group A,some high school,standard,none,58,72,62
+f7f9d2ee-bf8b-47c7-be5b-a5ef9ef79026,female,group C,high school,standard,none,39,46,50
+19b95d4e-b557-456a-ae55-4506c0d91ad2,male,group D,some high school,standard,none,64,56,50
+cd6202a1-d5c3-4b1f-b863-f62f90594526,male,group D,associate's degree,standard,none,61,66,63
+c9b9528f-e7e0-4c90-9992-3125356571da,male,group D,some high school,standard,completed,90,82,88
+ede81088-2074-4306-a389-4e0706ada092,male,group D,some high school,standard,none,73,71,64
+6b442b09-26a2-4c73-98c1-aba7a232bbba,male,group C,associate's degree,standard,none,73,73,70
+51fd8bd4-f720-49a2-8359-ac97520881ce,female,group D,associate's degree,standard,none,67,76,77
+358d2071-0c3f-4efa-84c8-f8a7489e337f,female,group B,some college,standard,none,57,58,62
+634d0d52-84ce-4ea2-b3c9-960eb5d7a1db,female,group E,some college,standard,none,65,73,72
+968e5277-0d89-4d28-b1f3-eb391d6757cd,female,group C,some high school,standard,none,71,72,71
+75393997-3658-4725-94d9-751ec50435af,female,group D,some high school,standard,none,59,69,72
+c220e3f0-de3a-4709-a23c-d5486df117b5,male,group B,high school,standard,completed,74,71,65
+471f995c-376e-40af-a4e0-73fcaf79e33c,female,group E,high school,standard,none,93,100,93
+017a565a-09ba-482d-9b61-fe4d02c252b7,female,group B,some high school,standard,completed,85,93,92
+835911fc-01dc-401c-97ea-6f2c2f0a1a4c,female,group E,some high school,standard,none,76,83,79
+4914413b-5146-422e-a12b-1b6ffa63f4af,female,group D,high school,free/reduced,none,58,72,70
+e0efcc41-a4eb-4eb9-89a1-c537129db336,female,group E,associate's degree,standard,none,72,77,77
+2f4d7ea4-d1eb-44b4-9a24-da61a8c9b412,female,group B,high school,standard,none,40,49,47
+c6680da2-2a50-4f2d-aa0b-e9ffa6bfcace,male,group D,high school,standard,completed,75,73,66
+3d66fef2-0fec-41bd-91d4-09126968f391,male,group D,some high school,standard,none,85,81,80
+25c1e943-101d-4dae-9f70-7650ce7b1cc8,male,group E,associate's degree,standard,completed,100,100,100
+72b6eaf1-2d4e-4307-8dda-e5089664d64e,female,group B,some college,free/reduced,completed,53,65,66
+9f46105e-dfed-4082-987c-7c2c8d55dfee,male,group D,some college,free/reduced,none,40,42,39
+18a033dc-c476-46b0-919f-5da99dcb8a0c,male,group B,bachelor's degree,free/reduced,none,49,49,49
+6cbf3961-b658-4985-a189-c1242a9e3e1c,male,group C,associate's degree,standard,none,77,80,80
+ccf7376b-883e-4eb9-a7b0-23527aed9dc1,female,group D,high school,standard,none,82,89,84
+c79a019e-25be-45db-8d10-fdce7945443a,male,group C,some college,standard,none,55,48,42
+aca46df2-fdbb-4ea8-b0a1-8581c9799572,female,group C,some high school,free/reduced,none,62,71,77
+a36a2496-50d3-4b29-8110-c20c12f08267,male,group B,high school,standard,completed,69,63,59
+3596ba48-7efe-472d-86e7-b248f2e266a2,male,group C,associate's degree,standard,none,78,74,76
+37686c15-9495-4716-92d2-fc090c15ab7f,female,group B,high school,free/reduced,completed,71,77,82
+15efa7b9-7251-43e9-886e-da1371a7b83b,male,group D,some college,free/reduced,completed,59,71,66
+0b24c1e6-d355-4e5e-b239-04be4e5c2f5a,female,group D,high school,free/reduced,none,60,75,70
+013d1639-4776-41d0-ae70-d26e5b65a8c1,female,group C,bachelor's degree,free/reduced,completed,43,60,60
+bbba7258-6eee-4304-8250-e32355a093cb,female,group C,some high school,standard,none,77,83,86
+8072f4d5-61c0-4495-911e-0477161ca655,male,group D,some high school,free/reduced,none,50,47,46
+e7e11bfe-a6c3-46d7-b76a-624ba135d61e,female,group E,bachelor's degree,free/reduced,none,56,58,52
+69e13df4-c40f-43dd-a33c-2b0a6b4057ce,male,group B,high school,standard,none,69,58,50
+4fb16143-0d1f-4c3d-8ca3-9dd4a8693d5a,male,group D,high school,standard,none,47,43,39
+ece271c5-8569-406a-85be-fca11998cea5,male,group B,some college,free/reduced,none,43,28,24
+b5d7b53c-32bc-4ad5-bfee-af3a2832812a,male,group A,some high school,free/reduced,none,48,39,40
+6f802a5e-8d49-40c8-8286-36388947c4f6,male,group C,high school,free/reduced,none,55,62,49
+13a442d7-81e7-40bc-865a-41627e308f87,male,group C,some college,standard,none,73,68,66
+e349a5a0-a555-4664-9bc2-23d4aaec871a,male,group D,bachelor's degree,standard,none,71,63,66
+9042806d-0d10-4139-8d90-bac91c6ee059,female,group B,some college,standard,none,54,57,60
+1ec1a201-fd81-460b-8c46-6764c8b35595,male,group C,high school,standard,none,66,61,63
+676a53cc-cf72-433a-a8cd-752caee70b9f,male,group A,master's degree,standard,none,63,63,67
+3bf49957-377d-4622-967d-34bf54e3088d,female,group D,bachelor's degree,standard,none,66,81,73
+f0d17129-2a90-4b8b-b7b6-d2ff952db53a,male,group C,bachelor's degree,standard,completed,79,80,75
+4de8955b-8cf3-464a-a24d-28ca7c0c9169,male,group D,associate's degree,free/reduced,completed,73,69,70
+f8df5bdc-c6b9-43e9-8a34-486324a512de,female,group C,some high school,standard,none,36,57,53
+2a1466ee-16b2-45b4-9f9c-bed28ef26f47,male,group C,associate's degree,free/reduced,none,50,48,43
+3e406a59-d951-4956-b80c-00d4aa1aa665,male,group E,some college,standard,completed,87,78,80
+b6abbb29-3000-4172-87c8-6dbfd3e58e0f,male,group C,associate's degree,standard,none,71,68,63
+a99d3bbd-ebb3-4ce8-92b3-0986c446f085,female,group C,associate's degree,standard,completed,85,87,94
+ba058b53-2a09-4509-95fc-7f2f7194b06b,female,group C,high school,standard,completed,58,67,64
+6691a3d0-0d07-4807-a8d6-afcefae59a0a,male,group C,some college,standard,none,86,83,81
+5839c41b-3137-417c-aaa2-da87ef1c90e6,female,group D,some high school,free/reduced,none,64,86,89
+87020307-848e-46b4-85b5-444a447e824a,male,group D,some college,standard,none,83,85,79
+267d1801-dc9a-4178-90ea-daded3e26443,male,group E,high school,free/reduced,completed,58,56,49
+97f7e3e6-4c8a-4ed0-9875-c1bc91d25a63,female,group C,some college,free/reduced,completed,59,83,81
+b6a0d80a-a8a4-4d2d-9215-7bc2d76f78ec,female,group C,high school,standard,none,40,58,54
+cd107e0b-20f4-4819-8d66-ad545bfdefca,male,group D,associate's degree,standard,completed,82,83,85
+8879c013-0979-45c8-882f-8c2236514d6d,male,group E,some high school,standard,none,87,84,80
+416b0c37-a58e-497c-8af6-f1873d8bc1e9,female,group C,some high school,standard,none,62,65,64
+1ec9e50c-9c17-4c66-bc73-c1c8fd19a188,male,group B,associate's degree,free/reduced,completed,76,80,78
+c0fbe5c3-6f93-4744-8030-5c0e06641b56,female,group A,high school,standard,none,63,69,60
+24d7fbce-67ea-4f39-8a72-039297b1fd2b,male,group D,some college,free/reduced,completed,58,60,59
+26028e65-acbd-4751-b0c8-57dda8e75bbd,male,group D,associate's degree,standard,completed,61,63,65
+d917f830-5776-4628-807e-ca2b8d9237f2,male,group C,some college,standard,none,78,69,71
+1a0a570e-9b89-4453-8d64-ee5115e361c4,female,group C,bachelor's degree,free/reduced,completed,78,90,81
+65da9aea-0225-4d79-8b83-aaacd38f7660,male,group C,some college,standard,none,56,54,43
+eb3e6334-ff42-4708-b251-696ef6a5a2f1,male,group D,some high school,standard,none,96,83,82
+5c79b697-ae59-451e-9477-fa5bca707a40,male,group C,high school,standard,none,48,43,40
+1248511c-0f17-41ee-ae93-31c8583ad216,male,group C,associate's degree,standard,completed,70,76,72
+f2b4243b-8c25-4ced-b4fb-8b55ba1130a8,male,group D,some college,free/reduced,none,43,68,58
+880bac8a-2745-40e7-9d63-e827ea1769f0,female,group E,high school,free/reduced,none,45,46,49
+41a96f23-debc-4427-b983-d604c4abfdd6,female,group C,associate's degree,standard,none,58,68,62
+8456d7f0-ac73-4831-a61b-ca9683add401,female,group A,high school,standard,completed,70,73,80
+087ba5fa-2ab1-482e-9df5-e93e8a893d31,female,group E,some high school,standard,none,60,61,58
+4a87e2d7-935a-4580-abe2-0aa2bc28911a,male,group C,some high school,free/reduced,none,52,53,47
+dabab0c1-ee29-4c89-b057-70fd1c9704f2,male,group C,associate's degree,free/reduced,none,61,62,54
+5774c7ad-e608-4048-b32d-70b46c0846d3,female,group D,some high school,standard,none,55,70,61
+0ea3119c-58e4-4091-80b0-d23e2be067c8,male,group B,high school,standard,completed,80,80,79
+c5f7802e-90c4-409f-b62a-63505c053fb7,male,group D,some college,free/reduced,none,63,60,54
+c7ec3fc7-1e77-43b4-a18c-d3f800c0f5c9,female,group B,master's degree,standard,none,79,79,87
+dc740725-d9ac-4404-b468-2645911bc7a1,male,group A,associate's degree,standard,none,74,78,72
+ec17f08e-7c27-4b53-981c-72f1caa90794,female,group B,some college,free/reduced,completed,46,58,64
+f780d290-f110-4737-8a90-070b7492aac8,female,group B,some high school,standard,completed,72,88,92
+c4f28b36-5885-472e-b555-185b9e3b9891,female,group E,some high school,free/reduced,none,58,64,64
+d26573fa-f6db-48ce-8e73-30c3f7486de6,female,group E,master's degree,standard,none,47,50,47
+5b710a92-8b4e-418a-852d-bc6fb977dd71,female,group D,bachelor's degree,standard,completed,68,78,84
+2ef357f2-1fe3-479e-a1d1-7a55811353e7,male,group D,bachelor's degree,free/reduced,completed,68,71,67
+acab81c6-1d17-497d-95cd-e9c390d6881f,female,group D,high school,standard,none,65,75,68
+c61473dc-ee1a-405c-b2ce-ef9cacf5d0c5,female,group B,associate's degree,standard,none,50,54,51
+281a59be-b0d3-4aca-be88-9ef33b6ccf9f,female,group B,high school,free/reduced,completed,48,71,68
+60fe188e-dbde-45b8-8613-0ae7b4b2b1b8,female,group B,bachelor's degree,standard,none,58,60,64
+d38138c0-0c3c-484d-872d-f622803153f0,male,group C,some high school,free/reduced,completed,71,74,68
+94e06bb1-5795-4852-9e05-a1900584e003,male,group D,some high school,free/reduced,completed,58,52,48
+a79ea09d-457b-469c-86b9-d587eecc5572,female,group A,some college,free/reduced,none,66,90,83
+c850bcff-0dc3-422b-abff-a6e0a618cbf0,male,group C,some college,free/reduced,none,44,53,43
+818d10ba-fd94-4002-b016-f42191f369fb,female,group B,some high school,standard,completed,51,63,66
+027c4b33-7654-467d-83c6-da95095a6ccc,male,group A,some college,standard,completed,78,83,77
+00b9744b-bcad-4dcc-b56e-c1f99779a4a4,male,group C,high school,standard,none,72,71,65
+66d28169-0342-4ee5-804e-b3d0fdfe87cc,female,group D,associate's degree,standard,none,60,64,67
+2a4e1fb2-98dd-44f2-b01a-1654b36b8236,female,group C,associate's degree,free/reduced,none,55,61,60
+effe71e3-d1bd-4a4d-af4b-9485710bc118,male,group B,some high school,standard,none,64,67,64
+84379988-3c86-4861-b96a-dfc82e739f36,female,group C,some high school,free/reduced,none,57,64,60
+d5dd7438-d881-4e37-9f40-da843768ed81,female,group A,high school,standard,none,70,75,74
+1e876a0e-68ee-4f49-91c4-a5c0e3e5eb87,male,group D,some high school,standard,completed,84,72,76
+9a001fb2-e1b8-453a-ae5d-c85fa2214145,female,group B,some college,standard,completed,66,71,76
+45f99462-d20f-4bd0-b6d8-092960c16ec6,female,group C,bachelor's degree,free/reduced,completed,56,65,73
+48cfa6e2-3dae-476d-9af1-4654b037cd44,male,group E,some college,free/reduced,completed,59,53,56
+14dec4d3-c058-41af-b202-8636e9eb1297,female,group E,bachelor's degree,standard,none,87,89,84
+1cd24510-bb9e-4800-a8ed-85d849317939,male,group E,high school,free/reduced,none,73,75,64
+4de3f80e-34d1-4299-b86f-f9f7153a978b,female,group A,high school,standard,none,85,91,89
+e050880c-104b-4bf3-b0b8-876991aa958e,male,group B,some college,free/reduced,none,49,54,42
+97529c95-0a26-4351-b906-d0c28502b585,female,group C,bachelor's degree,standard,completed,82,87,90
+8ccce9f9-422a-4f95-9bc4-d10957e18b3c,female,group D,some college,standard,none,80,90,90
+649eadcb-c91f-411d-a0a3-cb5c5b28cadd,female,group E,high school,standard,none,48,51,43
+9a88fed3-5498-4e19-a34b-c327c221bc32,female,group D,high school,standard,completed,85,83,94
+2eec6f40-818b-47eb-96e5-cde2abf12213,female,group E,some high school,standard,completed,70,78,76
+583b10fb-1dd0-4623-b1b0-a909b5b2e395,male,group E,associate's degree,standard,completed,89,84,81
+11d442d6-8644-4664-ad9e-f0e4252fc3f3,female,group D,high school,standard,completed,72,86,79
+30296dba-f801-4edd-8d0b-17d3095cd041,female,group D,some high school,free/reduced,none,80,86,87
+63c123a4-9ee1-4d29-9730-2a3f0fc74034,female,group D,some high school,free/reduced,none,43,57,50
+8b5032f2-e25f-4486-84b8-15acfb3fff6d,male,group C,some high school,free/reduced,completed,54,61,61
+e713497e-fa6a-4e26-972a-66c34738db40,male,group A,associate's degree,free/reduced,completed,82,82,78
+924f2bda-821b-42c8-a5ff-020d278159c7,male,group C,bachelor's degree,free/reduced,none,74,80,78
+6502df46-a75d-4765-af03-05e1121d3217,female,group C,some college,standard,none,63,62,64
+fb39d29a-6170-4e5a-999b-15940dcc464a,female,group C,high school,free/reduced,none,47,56,51
+0b6e9041-656f-44a0-b2ba-c28d34aa9536,female,group C,some college,free/reduced,none,13,29,23
+40d9e334-c9f6-430d-b9ec-0c5031e44d4d,male,group D,some college,free/reduced,none,67,58,56
+55fa19aa-d083-415c-8f1a-5eb3a49be12c,male,group C,some high school,standard,none,57,59,54
+7a69e689-cc7c-4d73-a19d-bb50be1d9621,female,group B,some high school,standard,none,64,78,83
+e7395796-2f9b-48a6-a33c-73e9536189f4,female,group D,associate's degree,standard,none,85,100,100
+4171e333-6832-440c-8531-03360d8d2409,female,group B,associate's degree,standard,completed,70,80,86
+96ea9b49-f18d-4c22-b0b0-7bc8034cb2f1,male,group B,bachelor's degree,standard,completed,90,73,83
+bcad3d67-e169-4784-8f29-9355bee194e5,female,group A,some college,free/reduced,completed,53,70,69
+ed2b7ec6-de9a-430f-98d9-40d6381ada1e,male,group C,some college,standard,completed,74,73,75
+f3a90940-ef42-4d30-8a4f-d86e75c8e97c,male,group A,associate's degree,standard,completed,61,71,67
+0ac3cafe-5ad8-4a60-9433-85b0e0e1415b,female,group C,some high school,standard,completed,55,74,73
+84c168ef-9f09-4e6f-80b0-d62f4a7520f7,female,group B,some college,standard,completed,65,63,66
+9b7593a4-2b33-490e-b3d1-9146fdecb93e,female,group A,high school,standard,none,77,77,79
+f693475b-4b77-4fd3-bd26-699e08c1dc4d,male,group C,associate's degree,standard,none,74,61,56
+33a0df31-d737-44f1-b983-507bb97ec4a7,male,group D,some college,standard,none,94,92,85
+4371f33e-6405-47a5-914a-4f0f58020143,female,group B,associate's degree,standard,completed,54,64,68
+2954f182-8eb8-4c8f-8c95-2013e514ef3b,male,group A,high school,standard,none,52,49,43
+21814872-402a-4e6d-9e5f-989df3bda7d7,male,group D,some college,standard,none,73,75,71
+995fc2e6-beea-48e8-8b42-ab71ac689971,male,group C,high school,standard,none,81,72,58
+65ca8326-8293-43b1-ad07-2e23162c6378,female,group B,bachelor's degree,free/reduced,none,62,75,72
+c4fc8a22-dd88-4bb0-89c3-f3cc5546b18a,female,group C,master's degree,free/reduced,none,55,60,61
+19412a01-7185-4e98-97d6-c4aab7d96307,male,group C,some high school,free/reduced,completed,55,61,61
+9b31cd73-c098-41e2-bf42-92e01020c134,female,group D,some high school,standard,none,61,62,61
+3b50d556-368a-493e-bdf5-7d988b650d2b,male,group E,high school,standard,none,75,70,64
+f1e17c83-af4a-48cd-b4b8-0fdda57438a5,male,group E,some college,free/reduced,none,79,65,59
+f4cc13a4-261d-4a3e-adae-39c75171f127,female,group C,some high school,standard,none,70,70,68
+4c30df50-da3a-4bc0-83dd-8d886523f35c,male,group A,some college,standard,none,72,65,59
+e2d574f1-dda8-48f8-a44f-a52b174ff8db,female,group C,some high school,free/reduced,none,38,46,33
+794435c2-aaf6-4d97-a414-4fa83ff4f6e2,female,group A,bachelor's degree,standard,none,57,71,63
+b25788bf-464d-45c2-8d3d-056fd4094d09,male,group D,some high school,standard,none,76,71,70
+3d3c9943-ee28-4e6f-afaa-4b472381b269,male,group C,some college,free/reduced,none,45,45,38
+7601f590-d84a-4867-94c7-1afbc789ae35,male,group D,associate's degree,standard,none,77,73,74
+7e8251a2-ea1c-4142-bc8e-ef5e335a31ed,male,group C,high school,standard,none,40,39,30
+b646ca30-3b18-42e4-a691-d92085c9f9a8,female,group E,some college,standard,none,78,83,78
+e40bf12a-17c4-4ce7-881c-e1c714c05957,female,group A,master's degree,free/reduced,none,63,65,66
+da43fa7f-923d-4193-8447-be4ef4b08af0,male,group C,associate's degree,standard,none,83,70,73
+64e81d48-5008-4222-a20c-58caaa17d25b,male,group C,associate's degree,free/reduced,none,55,52,47
+b1d471bf-91fc-454a-8d36-eac5f202b654,male,group B,some college,standard,completed,88,78,76
+00b63843-d224-4d61-86b6-4461d6242c21,male,group C,bachelor's degree,standard,none,82,83,85
+63db54f8-f7cb-46f2-9c6d-a16b0c0f5146,male,group E,bachelor's degree,standard,none,86,71,71
+fe54311b-ba7d-44e9-a2e6-1205da1e5887,female,group C,associate's degree,free/reduced,none,61,74,72
+2a1d07cb-5f92-4007-af92-9eb457a57663,female,group D,some college,standard,completed,78,85,93
+26aaef49-55a7-435e-a8e4-7f5f3d5c1075,male,group C,associate's degree,standard,none,67,63,66
+d63707da-bebf-40e9-9706-0b15c76fc61e,female,group E,some high school,standard,none,83,87,83
+e22157c5-f7ec-4906-9842-18e70c75842f,male,group C,some high school,standard,none,68,74,69
+36120862-c1fc-4fda-aad3-3f31ddbed66d,male,group C,some college,standard,none,53,52,44
+033cc5a0-8251-4984-b6dc-bb4459a57088,male,group D,associate's degree,standard,none,91,88,90
+39151cb4-8698-4ac0-84aa-283ac2875818,male,group B,associate's degree,free/reduced,none,67,66,66
+e9a876b3-eb76-494e-aa2c-020de93af408,female,group C,high school,standard,completed,53,64,62
+5e1a51d6-b124-487b-9f27-e23b67e1c49a,female,group C,master's degree,standard,completed,86,100,100
+402339f6-e2ec-481c-a148-27c2aa62a866,male,group E,some high school,free/reduced,completed,75,70,61
+a82dad8d-07a0-4954-bf0a-92e0fa5860c0,male,group C,some college,standard,none,55,38,35
+71cc89c6-215e-46e9-adf5-142a8f4491de,male,group D,bachelor's degree,standard,completed,93,86,95
+2b92cd9d-d0b4-440e-98eb-0590b9ce9969,female,group E,high school,standard,none,62,71,66
+c612d91f-08a8-42c6-9266-18e994e22df0,male,group C,some college,free/reduced,none,83,76,71
+4eb0a36a-b43e-4909-a1ff-ba1ffb32a9ce,male,group D,some high school,standard,none,73,72,64
+5e7fb651-9721-48bd-b410-392d95a4a8bd,female,group C,high school,free/reduced,none,57,52,53
+c2a41393-f04a-48a4-b8e7-00f1d012766f,female,group C,some college,standard,none,70,75,75
+4d1fbb0c-e0bb-47d7-92f8-6f57688fe9da,female,group B,high school,standard,completed,55,62,64
+50677656-5b99-43d2-86df-7d44f123263e,male,group C,high school,standard,none,65,56,51
+24a4473f-38ee-4419-b5bb-86b706171d25,female,group C,some high school,standard,completed,76,85,88
+1a83c06a-0709-411d-9e07-12b6a07d1c26,male,group C,master's degree,free/reduced,none,59,47,46
+2c40b841-384e-4cd5-983a-60ff6b88e488,male,group C,associate's degree,standard,completed,74,73,77
+2eab66be-04b6-4891-aad8-38f34ed503de,male,group B,some high school,standard,none,65,59,60
+9e316085-42be-473f-9bc2-512ee80cf1a3,male,group B,some college,standard,completed,89,87,89
+61e33079-d1a9-45b7-ad9c-be6a249ed724,female,group B,master's degree,standard,none,71,82,82
+ffeb9954-67b6-4b9b-9922-b57e7ee47ab7,male,group C,some college,free/reduced,completed,63,69,59
+b2f60d57-3095-463f-a2b6-e01785a016e8,male,group C,some high school,standard,completed,57,55,60
+1cb1c275-12d0-4dd4-b44f-d872c9c11439,male,group B,some college,free/reduced,completed,56,67,56
+c59e2eaa-54ff-49f0-b0d3-5549f7d36953,male,group A,some high school,free/reduced,completed,49,44,41
+eb695b55-fa90-48e5-8927-a6abd809e44f,female,group C,some college,free/reduced,completed,28,44,50
+b2ecc1a4-3fc6-44e1-8874-77d45330c3b5,female,group C,bachelor's degree,free/reduced,none,69,73,71
+b2ccb844-b64d-4485-99ac-531af052efea,female,group D,some high school,free/reduced,none,49,62,60
+a2b903ab-a442-46ba-853b-07106de9873a,male,group B,some high school,standard,completed,67,62,58
+c58a131d-dec0-49f1-8821-8ff10403647c,female,group B,some college,free/reduced,completed,74,85,82
+db525a18-040e-4602-bac8-14ad147896dd,female,group C,bachelor's degree,standard,completed,47,67,63
+f9f50b19-5395-4354-b293-b310e029da93,female,group C,some college,standard,none,63,63,69
+0c0613f6-37bd-417f-a287-7627250f6b41,male,group C,some college,standard,none,73,51,53
+73894f63-7d14-4b2d-aad9-cfbd4327f0a0,female,group D,some college,standard,none,91,94,96
+cee47cdb-e1d3-4637-b921-a5277b03b41a,male,group B,some college,standard,none,80,87,79
+057281c4-9d57-479f-88a7-fa4c223a8a88,female,group C,associate's degree,standard,none,66,73,68
+3ac9ec35-7c42-4507-a7e0-e5c53d558ed3,male,group B,some college,standard,none,52,48,43
+f0230cef-d1e9-4e9f-9fd7-978335e5dfd7,female,group B,some college,standard,none,65,71,65
+57b830b7-85e2-4e2b-9b5f-8646a26b130e,male,group D,some college,standard,completed,83,75,71
+c6602889-8efa-4090-aaeb-8627e518c814,female,group C,some high school,free/reduced,none,80,85,78
+7f15658b-a338-4fdf-8331-2b08522d465a,male,group E,bachelor's degree,free/reduced,none,68,68,59
+1a7cf576-39fe-45fe-943e-2ef999b4a096,male,group C,some college,free/reduced,completed,68,73,68
+675bd899-58e5-42bd-9272-a116ec4a5861,male,group C,associate's degree,free/reduced,none,62,43,45
+df572fa2-f5ef-48c2-b4e2-1860aa2ea891,female,group B,some high school,standard,none,76,88,84
+fbff0a52-a301-49a4-9b98-714e256cb605,female,group C,bachelor's degree,free/reduced,none,77,79,83
+2ddf87d3-4d03-44fb-a8dc-95d7acca9c3d,female,group E,master's degree,free/reduced,none,83,81,83
+f657b417-4d89-4b4c-8ab4-a42c9aa1b3f8,female,group C,some college,free/reduced,none,71,78,82
+534306ad-d5ca-4dbc-aca1-a6087e6b2e5f,male,group D,some college,free/reduced,completed,86,91,89
+2b6d8c28-99a2-4eea-8e1a-46ee2c42bf2a,male,group B,master's degree,standard,none,93,96,96
+aae1dc37-a3ed-4d2c-a660-102d35f69782,female,group B,associate's degree,free/reduced,none,60,64,60
+7570e8ca-bef6-4642-a75b-6d5268921238,female,group D,some high school,standard,none,57,56,58
+e838dd70-5613-468c-b24c-6217e57e4366,male,group C,bachelor's degree,standard,none,84,79,74
+afe7c9e8-5f54-481c-957b-1cde6b9883e8,female,group D,bachelor's degree,standard,none,66,71,75
+11b5df72-91d6-4dee-b603-bd183e467d82,male,group D,master's degree,standard,none,85,69,74
+35047842-cd08-420e-8446-f86d88925324,female,group D,master's degree,standard,completed,57,68,76
+4a75b642-64f9-488a-9bbe-12c073c83135,female,group C,some high school,standard,none,41,49,49
+983996b0-9855-481c-a623-633e47f67bec,female,group C,some high school,standard,none,75,76,76
+a3ffc724-906d-467f-b53d-7a74aea197b2,male,group D,high school,free/reduced,none,65,63,60
+77f0da6d-9d03-40a8-9e51-a7077e521093,male,group E,some college,standard,none,78,65,60
+beb10e6b-067a-454a-a5a0-7db4ac6bd553,female,group B,some high school,free/reduced,none,26,34,28
+7fb5f9b4-8c9a-4650-b203-31ce6fd2dc9e,male,group E,some college,free/reduced,none,71,64,66
+009f4e86-f8db-4aba-9143-5fc92af9121d,male,group B,bachelor's degree,standard,completed,86,92,93
+84364090-f3c7-4567-a54a-b6dde205252c,male,group B,associate's degree,standard,completed,89,84,81
+aea73724-7a5b-4dcc-8ac3-dfa68f6eeb95,female,group B,high school,free/reduced,none,53,64,63
+c82230eb-1bb1-43f2-8ca8-d4f8252ebb61,female,group C,associate's degree,standard,none,87,87,92
+3d0dd59f-dcd0-4c84-ba8c-114191062f63,male,group D,associate's degree,standard,none,71,57,59
+0cddc016-e989-41a2-86fb-19031c380131,male,group D,high school,standard,none,77,80,72
+1d410f34-befe-4b49-b94f-696f9ac50809,female,group C,high school,free/reduced,completed,43,48,53
+b78d708f-c42f-4750-b94f-0d099d316eb7,female,group C,associate's degree,standard,none,88,91,86
+ae108275-39bd-45e6-ba7d-46f9ddb58636,male,group E,some high school,standard,none,86,76,63
+0b292623-b7e3-42e6-870a-46480b59ee21,female,group E,some high school,free/reduced,completed,45,56,55
+941492dd-3471-485b-8fa8-4cee8adeb53a,male,group C,some college,standard,none,69,56,57
+aad44e25-4f3b-4388-b21b-3333e9bf94a6,female,group D,high school,standard,none,65,70,72
+660ce371-8fce-42d5-a3ea-0ed90747b3b7,male,group E,some college,free/reduced,none,81,79,71
+fed311b5-b979-4a77-a032-b01d782e14bb,female,group A,some high school,standard,none,90,88,86
+b1fc9af4-14b7-4ebd-b37f-8f94d6e7c9a3,female,group E,associate's degree,standard,none,78,72,71
+3921216b-5997-4638-ac89-2b08902aeee6,female,group C,master's degree,standard,completed,71,79,89
+8f3acdd1-03f0-46ef-af3a-eff4c2771e31,female,group C,some high school,standard,none,75,80,72
+556ec4c1-99e6-476b-8e85-3b2dd94a9a58,male,group C,bachelor's degree,free/reduced,none,70,60,56
+ae93d353-b2c9-4b18-ab8c-a40953a97af5,male,group B,associate's degree,standard,none,54,52,48
+6a8d9bd6-75ed-4a18-9bbe-4b35c78e7d37,male,group B,high school,standard,none,49,36,32
+364b7bb5-af53-4dbf-b27f-c5e4a098e37a,male,group B,associate's degree,free/reduced,completed,80,82,82
+7254919c-13f4-4a6f-8b92-c09385d3207c,female,group E,bachelor's degree,standard,none,78,89,93
+8c45fa6a-0494-4f4e-b841-e0eb5c5572d3,male,group C,bachelor's degree,standard,none,89,77,82
+a00a4507-dd00-4148-96d2-c116c528d6e4,female,group C,bachelor's degree,standard,completed,65,83,82
+b05acd55-ce68-4a64-89a3-f950b42a4159,male,group D,associate's degree,standard,none,78,74,71
+455a0050-3841-46b0-847f-c8c52fbcf092,female,group D,high school,standard,none,69,85,78
+66a4ba23-78c0-42c6-b710-33e3bf80fa4c,male,group D,some college,free/reduced,none,49,47,48
+7122a6e9-844a-4051-b80c-515a1410711b,female,group D,master's degree,free/reduced,none,50,64,66
+833542ad-7d37-4f0a-aa2e-2fe8f1ddefde,female,group E,some college,standard,none,79,76,71
+06e636ef-3d11-432e-a00b-a84a3fd72e7c,female,group D,some college,standard,completed,89,92,97
+0ec9c937-e264-4fe0-a9a0-c74ad83f0fd3,male,group A,associate's degree,free/reduced,completed,48,61,59
+70681e22-a532-4560-9e68-86d781ec00bc,female,group A,bachelor's degree,standard,none,63,67,71
+4c5679f5-a09a-4c4b-a216-7b0dcce645cf,female,group C,some college,standard,none,88,100,88
+005b434d-9212-4974-a621-8ef362cfdb11,female,group D,associate's degree,standard,none,66,73,73
+c4626887-b870-4682-bf2a-bca3561d488e,female,group B,some college,free/reduced,none,45,59,56
+ff228341-1466-433f-a425-81ce5bdca0ad,female,group E,some high school,standard,completed,62,78,73
+58f6ecc4-04fd-4f1b-83ad-225009c8de16,male,group D,some college,free/reduced,completed,74,80,86
+b3c3e634-2d8d-47b1-aa79-ec29e8245a1b,female,group D,bachelor's degree,free/reduced,none,82,87,90
+14845921-b762-4a13-b082-e2e1016573e9,male,group E,some college,free/reduced,completed,83,63,63
+d6d14523-b254-483e-88c4-0d21116b7c3c,female,group D,some high school,free/reduced,completed,60,72,76
+3482130c-0560-4dbb-a591-c0a1642a870d,female,group D,high school,standard,none,66,73,72
+9f2c78d7-a0b8-4b46-bc13-b355db8d0713,male,group C,bachelor's degree,free/reduced,none,76,66,68
+024e73f7-ad35-4f71-b3d9-94575832c7fc,male,group B,associate's degree,standard,completed,75,74,76
+47551f18-7fde-43e7-a023-05344acddd75,male,group B,some college,standard,completed,77,72,79
+77f025d8-3008-4607-a05e-456da4b7f526,female,group E,some college,free/reduced,none,82,88,86
+2576491a-cad6-452d-abcb-db7489521d99,male,group C,associate's degree,standard,completed,63,59,60
+13effbf9-437a-4b1e-b808-90404b389094,female,group D,high school,standard,none,70,85,85
+76bfe86a-c149-4903-8f23-86d53a3c5d3b,male,group D,associate's degree,standard,completed,84,71,76
+b83d0f4e-de34-40af-823e-a1a4199719e7,male,group C,high school,standard,completed,68,60,63
+678309bb-7c40-48e4-ac67-2866ed27d06b,male,group C,some college,free/reduced,none,56,58,50
+07bcac20-aa31-45a2-824f-1dbcdf05abd7,female,group C,associate's degree,free/reduced,none,37,46,43
+5a81e519-09fb-475b-8bdc-c473895db4ef,female,group D,some high school,standard,none,49,56,53
+e874c5c0-4726-4f53-80f3-8ca90c821cb6,female,group E,some college,standard,completed,100,100,100
+e524b9aa-ffb9-4c07-b024-f9beff511cde,male,group D,some college,standard,none,83,68,65
+f650d870-72ce-4675-b552-0ded6139508f,female,group E,master's degree,free/reduced,completed,92,100,98
+9091583e-80f9-4fe3-b6dc-99c1478fa809,male,group E,master's degree,free/reduced,none,71,62,66
+e0fbe6e6-b241-4808-9d26-f2b8ccc2634f,male,group D,associate's degree,free/reduced,completed,72,76,73
+72fb35eb-b539-4279-a85b-39568c99085a,female,group D,bachelor's degree,free/reduced,none,37,53,48
+c577e9ad-79d8-4cd8-a221-fa180badec1a,male,group C,bachelor's degree,free/reduced,none,35,43,35
+967b29e2-7586-427e-88a0-99e129755d45,male,group C,some college,free/reduced,none,69,68,62
+9950c2e0-78d4-44b0-8f4d-a483c16b26c6,female,group C,bachelor's degree,standard,none,65,73,81
+cb25fafc-e779-456c-a177-045db7134c41,male,group E,high school,free/reduced,none,56,48,36
+78777fcf-e005-4573-9f19-ea988313d182,female,group D,high school,standard,none,40,46,57
+20891c39-34b4-4225-a77b-97e7649cedd2,female,group E,high school,standard,none,60,62,60
+f6f9a6ad-a3cd-4b8b-a132-d7973aa17180,female,group C,some high school,standard,none,57,66,73
+973b1226-4691-42ae-a9f9-12fb4379a9a4,female,group C,some high school,free/reduced,completed,58,62,66
+77230554-0539-4d8c-92f3-4d488dac05c2,female,group D,some college,standard,completed,74,95,94
+6e84f20b-7755-4935-a685-f2577fb228ae,female,group B,some college,standard,none,77,77,83
+f900bead-d252-4dfc-b495-01660e4da343,male,group E,some college,free/reduced,none,66,57,53
+58e19aa2-214b-411e-bac5-04bb03677157,female,group D,some college,standard,completed,62,79,87
+73e6b90f-5e84-40f3-a014-bb0268a3b101,male,group C,high school,free/reduced,none,29,38,27
+67b27428-e5a1-4e4d-a749-9fba4ba5fd2c,female,group B,some college,standard,none,70,73,66
+b241fb8b-4d90-47f4-a120-08c389287646,male,group A,associate's degree,free/reduced,none,67,64,60
+ac21d846-e01a-45f4-86cc-e5a71a8ddff7,female,group C,high school,standard,completed,81,91,94
+79662c49-c3e5-43ce-a255-71735386ed4a,male,group C,associate's degree,free/reduced,none,56,50,43
+7a49c752-b8e3-48ba-aadf-69dcecb5e09b,female,group D,some college,free/reduced,none,61,79,76
+76389e88-641e-42d4-8296-e978d0bf5ebb,female,group D,high school,free/reduced,completed,47,54,56
+ce95f643-5e4d-4eab-b09b-664f179aa2b2,male,group A,bachelor's degree,standard,completed,88,87,94
+cb2500ea-d7aa-4fef-8413-89554604cfb8,male,group C,some college,standard,completed,51,52,52
+edc1a9c1-0b95-4d80-8db0-0c6d8a2d0f62,male,group C,master's degree,standard,none,68,60,62
+4c586778-4f07-45de-8ee3-f5b4564716c7,female,group B,associate's degree,standard,none,68,71,71
+8b64d0fe-e836-41f4-a9ee-b8406885bcc9,female,group B,high school,free/reduced,none,47,49,50
+6099ba26-1cde-43af-8154-cb8a79746259,male,group E,master's degree,free/reduced,completed,84,77,82
+b3d1f37c-37c1-4b85-9b4a-19ec5a8282fa,male,group B,some college,free/reduced,none,69,72,68
+6e97a637-cb0e-42c1-ab7f-cd48dbfd5ced,female,group D,bachelor's degree,standard,completed,52,69,75
+4b99a6c6-fff8-4aba-bf33-e6ab5e2ed2ff,male,group B,associate's degree,standard,none,80,79,79
+4e26ad66-b58e-44a1-91dd-7fc5fd289da7,male,group C,bachelor's degree,standard,none,100,84,88
+a63986a9-ecd3-4d02-907e-674f5692b8b8,male,group C,high school,standard,completed,53,59,64
+a3dfe3e5-caff-458b-9741-bd3fe908c883,female,group B,master's degree,standard,completed,59,73,74
+65c35538-f486-454e-90ab-2fcbbf709028,female,group B,some college,standard,none,78,96,89
+c2c17fa8-4789-4d4c-b70f-f27999d078a4,female,group B,associate's degree,standard,none,84,87,89
+1d05656b-1038-4442-bb13-84eb696ec076,female,group C,high school,free/reduced,none,52,72,71
+9f6063f7-ac41-4598-812c-9f900c619f27,male,group C,associate's degree,free/reduced,none,81,78,75
+d9b72912-420a-4ae1-b3d8-a68a513d950a,female,group C,associate's degree,standard,completed,90,95,100
+a599055b-9f13-4ccc-95fb-409c5c023378,female,group A,high school,standard,none,63,73,66
+814b6831-52ce-4773-9346-8f5ec958d73c,male,group D,bachelor's degree,standard,completed,100,97,100
+613f396e-eeed-4542-8a60-9f255cf75485,female,group B,some college,standard,none,56,63,62
+23f490a5-bd35-44fb-a198-cfceeb731c25,female,group B,some college,standard,none,46,54,54
+955e46c3-73e0-473c-89ba-25a0486208a7,female,group B,high school,free/reduced,completed,75,85,90
+04ad3e6f-aa55-49f9-962a-89e8d422336b,female,group A,some college,standard,none,46,51,54
+a486465b-dead-4e2b-8cde-90a90d2c6700,male,group A,some high school,free/reduced,none,42,40,40
+8e3ffaad-754e-4973-83e2-b2597d8d6104,female,group C,some high school,standard,completed,77,86,90
+9c481b90-80f7-400b-989c-3de019401279,female,group C,some college,free/reduced,none,40,63,56
+0e0b17b9-feb0-4625-9c68-16e19a6a6615,female,group D,high school,standard,none,69,71,76
+c8d0c11d-3dc3-4d0c-9487-1c2016ab384d,male,group C,high school,standard,none,43,50,45
+548ae394-5f62-4130-a804-165ead3ccfb3,female,group C,associate's degree,standard,completed,69,75,71
+81bcb21f-c2d3-4804-8d48-d27b1fa0a316,female,group D,bachelor's degree,standard,completed,89,93,100
+2465748b-65e3-45f0-9d3f-1d744982d464,male,group B,associate's degree,standard,none,44,34,36
+26e0c4b7-6c9d-43b3-9084-65d0387a6952,male,group D,high school,free/reduced,completed,82,83,77
+8bf86107-423c-44f5-be8d-3e70092f877a,male,group D,associate's degree,free/reduced,none,72,72,65
+35867b33-dccd-450c-88a8-d7de8e0b6592,male,group C,bachelor's degree,standard,none,64,53,50
+f2156b05-b6fa-4003-ab80-cb482d7ceee1,male,group D,some high school,standard,none,89,73,70
+0a108062-3be5-4ce1-a793-4b290939c9cb,male,group E,associate's degree,free/reduced,none,58,53,54
+9b44884c-dcd3-4912-aa39-193f459399f3,female,group A,high school,standard,completed,63,81,78
+08c6787b-667a-4633-9ae5-dfd3da89079a,female,group A,bachelor's degree,standard,none,54,66,69
+002abcb0-2027-4ca5-9ac8-b9a09fa15248,male,group C,high school,free/reduced,completed,83,78,82
+fb32243f-3a49-423a-baa9-c62a4b48f35b,female,group C,high school,standard,none,57,74,64
+db358b01-4f74-491c-ad0e-bbb437a940a7,female,group C,high school,standard,none,52,47,48
+75b42a28-174d-4a9a-8c9f-44af901a9417,female,group D,high school,standard,completed,75,93,97
+4cd2f7cf-25ec-4d4b-a5f4-cd88ffac2ab8,male,group E,high school,free/reduced,completed,67,66,64
+d4d7f881-66f8-4654-a7bc-dd3fd3b86874,male,group B,some high school,standard,none,58,60,53
+19ea3603-3378-482d-a435-4a6d236bbfcc,female,group B,bachelor's degree,free/reduced,none,63,66,68
+b0f5f674-64d4-4140-bf6b-874a204f5bb2,female,group D,some high school,free/reduced,none,49,64,57
+8068882c-b440-4e1d-8337-d1878daece04,female,group D,some college,free/reduced,none,38,47,52
+ceea7cef-3591-424d-99f0-fe32f7de6e56,female,group B,some college,standard,completed,74,85,84
+42a22fa8-5889-49fc-af32-1a4fb5fea8b9,male,group C,associate's degree,free/reduced,completed,69,84,82
+963dd782-492b-437b-b9b5-e0fb82f32ed9,female,group D,associate's degree,standard,none,77,82,80
+661cdece-377e-40e0-81a0-15fd9972b3a1,female,group A,master's degree,free/reduced,none,40,59,59
+ccf7fc10-eceb-4b93-9438-b13fae6a9060,female,group B,master's degree,standard,completed,96,98,100
+4512c95c-2550-4a20-b6fb-10ac61eb177a,female,group B,bachelor's degree,standard,none,85,86,85
+7a2267d7-f353-4c97-aa39-b28a2841bf01,male,group D,associate's degree,standard,none,85,77,76
+b8b9095b-510c-48ec-b628-76bf49b98fa9,male,group C,high school,standard,none,72,59,54
+d5ded92a-1166-481d-83f5-9b3ce436680e,female,group B,associate's degree,free/reduced,none,63,78,73
+65d8cb20-8083-4265-aba5-a1e9b9ad890d,male,group B,some high school,standard,none,58,67,58
+3f652a5e-4356-42ba-9c13-133742acbb96,male,group B,bachelor's degree,free/reduced,none,58,64,54
+3fc49189-bf7b-4977-a868-4b3342c87f2e,male,group C,high school,free/reduced,none,51,57,53
+1dae86b3-2984-4903-aaed-df939ea57444,female,group D,master's degree,standard,completed,100,100,100
+c877ea22-0fca-4c24-ba2b-722d76eaa446,female,group D,master's degree,standard,none,77,84,92
+5cb6da7b-fcfd-4575-be40-4771ebed03ff,male,group E,bachelor's degree,free/reduced,none,63,56,56
+54236289-96a2-4fde-be33-9f61a4dbab39,female,group C,some college,standard,none,64,67,68
+e3c7ceb0-11b7-4be5-9cf3-9b21487256c7,male,group E,high school,standard,none,100,82,80
+08127023-95ff-45db-8c6c-a943d80c7df2,male,group C,associate's degree,standard,none,66,65,65
+58caa6c2-bfb9-491d-b75e-f0f8791e51d7,male,group E,bachelor's degree,standard,none,87,87,84
+78a872fe-5001-49db-b1a5-38211a9fe1b0,male,group C,high school,standard,none,73,72,69
+3813551e-cf3c-4aef-a404-65cb9dbadf68,male,group C,master's degree,free/reduced,completed,69,66,65
+d420deb1-f9ed-4a36-8b88-d33e7cf8ed95,female,group C,high school,standard,none,62,64,63
+1ed04746-d328-41f9-a076-e5d8a24c407b,female,group C,some high school,standard,none,40,48,49
+a182d7ca-c3fd-46f0-b0f2-3d9bcd94eece,male,group C,some college,free/reduced,completed,55,68,60
+bda017c6-1d48-4e21-9af3-2f6782215279,male,group D,high school,standard,completed,77,77,78
+49def3e5-d263-47dc-ba07-8362247dc67e,male,group D,some college,standard,completed,63,70,71
+08946c49-9ae8-4990-ab6a-a1d2c6b46816,male,group D,associate's degree,standard,completed,85,85,91
+2afefbcd-1a2c-4e90-892d-ea0b3191a47e,female,group B,high school,free/reduced,none,30,43,40
+b3d246ea-12f2-4d4a-99a0-3356c2dc6be0,male,group B,high school,standard,none,82,77,71
+343c6d21-180c-42db-a63c-8f80d73614fa,male,group D,associate's degree,free/reduced,completed,81,71,70
+19e9a384-7d86-49bb-bd1a-690e171cade6,female,group C,some high school,standard,completed,92,100,97
+75ce925d-d28f-4c41-8dfe-db956dcf590e,male,group B,some college,free/reduced,none,50,48,36
+98ae59c5-7332-4b06-a486-66ca0b403ccd,female,group B,associate's degree,standard,none,54,60,56
+dddebbdb-03b3-4769-8cf3-76b828754ee7,male,group C,associate's degree,standard,completed,76,83,78
+ec268de5-4ebc-43cc-9379-c2a0b4b1ac38,female,group D,some high school,standard,none,60,68,74
+002d027f-4a3f-4593-a836-191e85eb0113,female,group A,associate's degree,free/reduced,completed,45,72,66
+3fe5b62d-5192-4a2d-b9fd-2f87f037832f,male,group D,high school,standard,none,80,77,72
+e81c7ad1-c6a2-4c6d-aa58-ac169c394e76,male,group D,some high school,free/reduced,none,52,45,48
+5095370f-76a1-4596-bb92-51e2fb64dcff,female,group C,high school,standard,completed,90,89,97
+9513e722-44b4-4eae-817a-a91188d66896,female,group D,high school,free/reduced,none,53,65,69
+8282882d-77fe-42e5-afa2-0eacdc9280ea,female,group C,associate's degree,standard,none,92,95,95
+90bceb6b-b024-45b1-8169-61528f51b957,female,group C,some college,standard,completed,63,78,75
+cf17b79a-4645-4fb3-94e7-eab983e9b872,female,group B,some high school,standard,none,71,77,79
+335226d1-45dd-4a44-85d0-1b14d3a14311,female,group D,some high school,standard,none,64,70,73
+df25a16b-bd65-45b3-acc9-4b8c435d387a,female,group C,some college,standard,completed,67,81,89
+8b80bc54-c6a0-4834-952e-00a5961b3a66,male,group C,high school,free/reduced,none,63,63,61
+083e0a0b-4fe2-494c-8f97-0965ffc321c3,male,group B,high school,standard,none,63,53,44
+eb5fdd7e-377d-46b2-90e9-f7526fc4a2d6,male,group C,some high school,standard,none,59,49,46
+214a7eba-de0f-4ccc-812e-42029fd10221,male,group E,high school,standard,none,49,43,35
+dc20f98d-00c5-46d2-9351-65c59a7b101b,female,group D,master's degree,standard,none,75,84,86
+74346806-6978-47ab-bca4-840a944bd65e,female,group C,some high school,free/reduced,none,34,47,45
+861f939a-5724-433b-b843-aaedfe43bbf6,female,group B,associate's degree,free/reduced,none,53,70,69
+336d3e5e-bddb-4ee0-9cc0-bbd1847196b5,male,group B,master's degree,standard,none,63,56,60
+b0a314f3-fe28-4cbd-8219-cf91d681f728,male,group C,associate's degree,standard,none,75,69,65
+5b7de5bd-6749-428d-b13b-5f1459985462,male,group E,associate's degree,free/reduced,none,63,61,62
+f5446845-6b6b-4926-8a7d-81c8bb38f7eb,female,group C,high school,standard,none,70,72,75
+427411d2-dd30-45a7-a640-c648a24aab13,female,group C,some college,standard,none,61,73,70
+e9180e72-e964-4b4c-9801-7ba0d8dc42be,male,group C,associate's degree,standard,none,74,61,59
+466d11d2-c688-4b14-83e8-807ba901d617,male,group D,associate's degree,free/reduced,none,57,49,48
+ab7318ca-aa30-4227-bed9-ac05c8dac25b,male,group C,some high school,free/reduced,completed,41,52,47
+71522609-5626-4a60-9e47-060766d54e6c,male,group D,some high school,standard,none,87,80,76
+4a55c026-6119-4eef-8232-9982dbc98971,male,group C,high school,free/reduced,none,69,71,62
+fd75eb6e-6d26-4bca-b705-32c5e5bf68d6,male,group C,associate's degree,free/reduced,none,69,77,70
+a22f5b2c-40ad-4ab6-a351-2b3c79536311,male,group D,high school,standard,completed,58,56,56
+052c79ef-f09e-4b93-8197-0605134ac1c3,female,group B,some college,free/reduced,completed,47,69,62
+12284ac9-f97e-4437-ae7c-69206e385587,male,group D,associate's degree,standard,completed,78,69,71
+ddde5ef5-4785-4275-980a-bf5ef03052a8,female,group B,some college,free/reduced,completed,54,61,71
+682cbbc6-666d-407f-a750-be982b0372e6,male,group C,some college,free/reduced,none,36,27,26
+8b492268-751d-4689-95b2-703549591e2f,male,group B,bachelor's degree,standard,completed,94,92,92
+af23336e-2c21-4387-b436-4f37264b229b,female,group D,associate's degree,free/reduced,none,68,84,80
+12e7eeff-3d96-4697-b18a-ff94749aea1c,female,group E,high school,standard,none,90,88,84
+ce8eed77-3e16-44f1-8e37-820c3d8e13ed,male,group A,some college,standard,none,57,57,53
+e6ac56c9-e030-4d09-8494-ddaa61999157,male,group D,some college,standard,completed,96,95,90
+3777b31b-3ce9-4b23-a441-04afcdcf1526,male,group B,some high school,standard,completed,68,63,62
+8d22bfda-db2e-4b96-b285-8669618b5c09,female,group C,some high school,standard,completed,52,64,63
+94120742-5c9b-4fbc-9843-23102b1ea804,male,group E,associate's degree,standard,none,90,76,73
+7b127e2e-4707-42f6-a894-a61221cc7e4e,male,group C,some college,free/reduced,completed,71,82,75
+9c679e32-15df-4ca9-894d-7197620de25a,female,group C,some college,free/reduced,completed,58,69,74
+4c21d6c7-73bc-47fb-bc09-cf05cdcde8a6,male,group C,some high school,free/reduced,none,41,39,34
+d9580c10-3b49-43a2-80b2-e7aad11e2959,male,group D,some high school,standard,completed,43,37,43
+fd840c8c-d8fe-4836-bd0a-1114bbeae88e,male,group D,high school,standard,none,85,70,71
+66414859-df71-408a-b9cd-b1c752ac25c9,male,group B,some high school,standard,none,71,72,69
+b7b28a0d-791f-494b-91db-3705c2fe5671,female,group A,high school,standard,none,72,70,72
+0e4e46b3-089e-42ec-b3f4-eba0b8ceba85,male,group D,associate's degree,free/reduced,none,70,62,66
+0fd6dfa5-8f6d-45ec-955a-b9441c98fe87,female,group D,bachelor's degree,standard,none,89,100,100
+d9ca3769-8083-4141-8633-746ddbe0496f,female,group E,high school,standard,none,92,86,82
+6ed8cb58-0a9e-41ce-90bf-62ab7b8272d8,male,group E,some college,free/reduced,completed,80,79,81
+390419df-d656-4c7d-97fb-86a31dc1be70,male,group C,some high school,standard,none,80,70,60
+04da85cf-920f-490d-bc62-0554b2fd0bed,female,group B,high school,standard,none,56,64,59
+af5c286c-c731-4445-a2b1-75d55a2ce085,male,group E,high school,free/reduced,none,93,86,73
+f4f4af4d-63ec-4dc0-9fdb-dc59a96434a9,male,group C,associate's degree,free/reduced,completed,49,37,41
+a47613ec-d499-4104-bcb7-f0c79a1e0a36,female,group E,master's degree,standard,none,59,57,58
+57104ba0-531b-4788-83d0-08904e76d3db,female,group C,some high school,standard,completed,64,74,75
+d625edf9-7dee-430b-aad4-654e697b8310,male,group D,some high school,standard,none,73,66,59
+495ba7f5-2e32-489f-b147-0ff1d6fe660d,female,group B,some college,standard,completed,82,86,90
+4c0ab063-ec8a-4698-950f-9c36c392bfe2,male,group D,high school,free/reduced,none,48,43,41
+53404d4b-475f-41d5-a80a-ad2c39c090ac,female,group A,some high school,free/reduced,completed,51,64,62
+23fc03ca-a186-4f30-98ab-c927b2465a4d,female,group E,some high school,free/reduced,completed,38,46,43
+06f63812-f733-4a4a-818c-0566f129ed19,male,group B,some college,free/reduced,none,45,50,42
+d1fcce36-b19b-4142-a528-1b2ca6d448af,female,group A,some college,standard,completed,83,92,95
+5e166711-f100-4f5b-88bf-5d220929d746,female,group B,some high school,standard,completed,45,57,56
+ddbf42f0-a436-471d-b97b-42b1e07bf90f,male,group D,high school,free/reduced,none,66,64,62
+744f9200-a9b2-4892-854e-55e0724a507b,male,group D,high school,free/reduced,completed,60,62,57
+0688d4e4-bb15-4df8-af0f-9b2e804a5ae9,male,group C,associate's degree,standard,none,49,47,49
+6618af04-1f50-4dfb-888b-d6529ec3b280,male,group D,bachelor's degree,standard,none,80,84,86
+fb6bdacc-b8cd-4fa6-966b-f6a5bcc6e4c4,male,group E,high school,standard,none,75,68,66
+940b58dc-2e15-47e7-af16-a940b5b9c727,male,group B,some college,free/reduced,completed,57,68,61
+15914bd4-961b-46d9-98f6-83efbd03ea4d,female,group B,some high school,free/reduced,none,25,36,37
+5ce9bb0c-e3d4-4cf8-b99c-d3f9738adfc0,male,group E,some college,free/reduced,none,90,87,81
+81586211-dff5-4034-8654-466fa727a8ee,female,group D,some college,standard,none,63,70,71
+2b91b994-7292-4eec-9732-81535af1e8cd,male,group E,associate's degree,standard,none,100,91,86
+65e7ea7f-f5c6-4809-9e99-1606c02f4e35,male,group C,associate's degree,free/reduced,none,76,68,66
+972065e8-4bdd-4edf-a37f-fa92ddf64f48,female,group B,some high school,free/reduced,none,52,58,53
+295714c0-4273-4873-8125-4fed664953f3,female,group B,master's degree,standard,completed,81,86,93
+f1ed9990-7cbd-4e04-ba23-d0b6ed6fa5aa,male,group C,associate's degree,standard,completed,90,89,87
+b25f2a3a-b2eb-4cc6-9b65-c665fc0c76ac,male,group D,associate's degree,standard,none,83,82,81
+aa382396-e134-4be6-bdd8-d05e7d54272c,female,group B,high school,standard,none,61,73,69
+cc9c7266-0545-4857-adb7-34ee8c8b7c22,female,group E,associate's degree,standard,completed,79,69,75
+18c6e423-73a0-4438-b3de-0ff91d99d35c,male,group B,some college,standard,none,52,53,51
+40b9c541-b3bf-4ab6-b064-2b02bea1034e,female,group B,bachelor's degree,standard,completed,62,65,67
+6d210b09-ca1d-49ba-9858-50249b2c942b,female,group D,some college,standard,none,85,90,84
+f39c9dd8-33cb-4f8f-ba1a-2f6f08211f39,female,group E,high school,free/reduced,completed,74,96,95
+357ec67b-494c-43f6-978e-86410775c42f,male,group C,associate's degree,free/reduced,none,83,85,78
+41a648cb-f5b9-4937-98e3-ca2c5cfd60fc,male,group C,some college,standard,none,78,72,72
+a2392fef-1e0c-4e07-b9b6-dd19fde85e78,female,group C,high school,free/reduced,none,41,43,40
+c368a16c-2d78-4246-ac21-5418814fa10a,female,group A,high school,standard,none,77,91,87
+183f45aa-29c1-496c-9e98-b592bee2a410,male,group C,bachelor's degree,standard,none,95,99,91
+681d0f32-f089-4d11-9e0e-9b68ed3772f2,female,group B,high school,free/reduced,none,50,68,66
+f134bc9c-8a0d-4c2e-8f4c-a9f0d037a931,male,group C,some college,standard,none,74,76,70
+8c4aeb1f-4213-437c-9d2e-ff25e3b83b5f,female,group D,bachelor's degree,standard,completed,74,93,93
+aab237c9-973e-41cf-aa49-5e594d5f618c,male,group E,high school,standard,none,70,62,61
+453601b3-c93c-4772-91a1-3c195a2577cc,male,group D,associate's degree,free/reduced,none,61,59,54
+381094d5-7e1b-4488-837f-e3a072eacbbf,female,group A,master's degree,standard,completed,94,100,100
+999967d9-2765-4b2b-a0f7-c922e7ce8adf,female,group D,high school,standard,none,66,84,77
+cf4386e1-39da-4218-8a4b-3ab6a18da497,female,group D,master's degree,standard,none,83,88,93
+543a50eb-f9be-4a46-adb4-6a516da712aa,male,group D,high school,standard,none,75,63,60
+86eab3b8-263d-4aa8-a6fc-8d036ff32c6b,male,group D,high school,free/reduced,completed,56,65,63
+f38e1a85-80d3-4551-9e96-688da356b936,female,group B,some college,free/reduced,none,66,88,83
+46bf2d92-a04f-47a5-9632-c7f552dabb16,female,group B,high school,free/reduced,none,61,69,66
+182d7f50-4058-4d66-a347-7556c5e759c3,male,group C,some high school,standard,completed,70,79,73
+00516680-7c50-4e33-b090-c8ccb6411497,male,group C,master's degree,standard,none,57,59,53
+986f3753-ab38-499e-ad93-d38bfddf4234,female,group C,associate's degree,free/reduced,completed,78,89,90
+a3312313-3e8c-40f6-9c20-ac008a7c5587,female,group C,some high school,standard,none,62,76,67
+13d73ab7-15c2-450d-8214-e8720dbc6b42,male,group C,some high school,standard,completed,64,53,49
+5ca8c17a-c7cc-4e79-8e03-48c87a2728b0,female,group B,high school,free/reduced,none,55,66,65
+1dfd8906-2b6b-4830-b6ea-7886c69b7741,female,group D,some college,standard,none,72,83,83
+33a8f935-65cd-41a8-94f2-180d630acd67,male,group A,some college,free/reduced,none,49,48,42
+738c00cd-55bb-4f8f-8ec5-b918e79bc926,female,group D,some college,standard,none,62,60,63
+27514a95-1448-49f2-95ef-0ff57202b73d,male,group B,some high school,free/reduced,none,76,73,68
+22647274-e38f-453c-b67c-f756317d04be,female,group C,master's degree,standard,completed,73,86,85
+d306d58c-563b-47e7-96f6-fd56f0263346,female,group C,associate's degree,standard,completed,72,76,78
+db23377c-ac4c-4b26-ad1d-bdecafb3cbd9,male,group C,high school,standard,none,85,85,76
+83ff1c97-2404-4f07-b980-c695aed1004b,male,group A,some college,free/reduced,none,71,68,65
+42eb89d1-f0b5-4115-a368-144e3c9b516b,female,group C,some high school,free/reduced,none,28,38,31
+26e5bf06-a892-4eee-a917-3f9b8f6eec95,male,group C,high school,free/reduced,none,41,42,38
+0000ca97-130d-43c3-95d8-a3fbe90d466d,male,group E,associate's degree,standard,none,78,72,68
+8b2e45f7-469c-4db6-a954-1496e75c22be,male,group C,master's degree,free/reduced,none,48,52,44
+ea916c72-be5e-4870-92c4-a4714a36479a,male,group C,associate's degree,free/reduced,none,38,51,47
+9e762744-b261-40bf-a6a1-0cfaa9896d3b,female,group A,bachelor's degree,standard,completed,91,100,100
+50e2af3c-543b-4120-9b6b-ec845a993e69,female,group D,bachelor's degree,standard,none,71,81,80
+e8cfda0d-eff9-45c9-a54a-70d4e5724541,female,group D,bachelor's degree,standard,none,84,87,92
+da0e3951-21b5-44a0-8faf-0cbe7cdc016a,male,group E,associate's degree,free/reduced,completed,63,60,63
+8f7dc313-fe08-4937-ada5-9f2d7937ea97,female,group A,associate's degree,standard,completed,70,78,87
+e9a86370-8d9f-4c5d-a3eb-21f43f1fe60c,male,group B,bachelor's degree,free/reduced,completed,48,52,57
+b12af72c-ccf9-497e-9a1e-c5fe1423f692,male,group D,some high school,standard,completed,68,72,73
+77fdcaa0-532d-4963-bd3b-e4b584e8b193,female,group D,some college,standard,none,84,84,87
+5f757a3d-be80-49dd-b7ac-c87a715f165a,male,group D,high school,standard,none,61,62,60
+a847e96c-3965-4ef3-bb33-722a46ab0d14,male,group C,some high school,free/reduced,none,62,59,62
+03fea5d9-2720-4579-83c4-6e6c2dda0ef6,female,group C,master's degree,free/reduced,none,66,78,83
+b5e7c5ac-86f3-47e2-b673-2bb164bc32ac,female,group C,high school,standard,completed,52,65,71
+057448e0-f7e6-4a08-b2c6-23ecf02cb969,female,group D,some college,standard,completed,68,75,73
+210c0124-3192-4834-9331-1218a0aa2d63,male,group D,some college,free/reduced,completed,62,68,71
+eb63c062-88fb-453b-870e-4c240daf05ef,male,group E,bachelor's degree,standard,completed,90,88,84
+66fa0637-80a8-4a45-bdba-7a28db3de686,female,group A,master's degree,free/reduced,none,42,50,44
+24f9a996-a017-46b0-b37b-ace60e9768cb,male,group D,associate's degree,free/reduced,completed,74,90,89
+078975a5-be6c-41e5-8073-21a1c60b5ab1,male,group B,associate's degree,standard,completed,62,61,61
+8dd41d65-e083-44d8-b748-05d5e55194de,male,group C,some college,standard,none,56,55,50
+aebbce9b-793e-4ce2-b461-35bf9c29a647,male,group C,high school,free/reduced,none,64,52,54
+106d16c9-6abc-444f-a7f1-4d66666f1f89,male,group D,high school,standard,completed,79,84,80
+30a67f35-2161-468e-8838-c674b35345ce,female,group C,some high school,standard,none,44,65,63
+4b97d326-413c-4a20-8c11-60004a0e836f,female,group B,some college,standard,completed,69,94,87
+c991a2ba-3806-4284-850a-d8e9f0d7016f,male,group A,some college,standard,none,53,48,48
+6aae900f-0d84-41fc-b4b2-e9db9fc35aeb,male,group C,high school,standard,none,74,69,61
+3b3bfe61-6c04-4c15-804b-200222a9f2c5,male,group C,associate's degree,standard,none,49,55,48
+9e4b451d-18bb-4524-b3d3-e91e6bcf7365,female,group D,associate's degree,free/reduced,none,57,71,71
+0a9f25bf-b9a2-4a97-937a-08d260f380f7,female,group D,master's degree,standard,none,61,72,64
+20adf28c-dc70-44cc-b5c9-b12160476c43,female,group C,master's degree,free/reduced,none,65,88,84
+9165ec94-0369-4387-9961-81c2d58b11f5,female,group C,some college,standard,none,51,60,52
+7830f7bf-4864-4a6f-9556-46c1c89cf002,female,group C,some high school,standard,none,49,51,41
+0589f14d-e044-44d8-bbfd-a784400a6b33,male,group B,master's degree,free/reduced,none,56,65,56
+44aa0fd6-f16e-41dd-a467-e3163d7468ad,male,group D,associate's degree,standard,none,65,62,63
+348927ed-5749-4a9f-9d93-d50128d8928d,male,group D,some college,standard,none,70,64,62
+e946160b-99c5-41e2-a702-75de43fb3581,male,group D,some college,standard,none,91,95,88
+8b4052b4-223b-441b-9194-859b8bb39ac0,female,group D,high school,standard,completed,48,56,64
+97328260-6ff5-42b4-abe1-f2a2ed23dfaf,female,group C,associate's degree,standard,completed,94,99,100
+772e9730-2d3c-4604-969d-8ddef7ee557c,male,group B,master's degree,standard,none,77,76,73
+af4ab459-0ddc-429b-89f2-73fd4c416189,female,group D,some high school,standard,none,59,78,75
+e26814fc-684c-4787-9349-2e83242d361c,female,group C,some college,free/reduced,none,57,75,70
+e05ddb75-27e1-47f8-9a6c-fce6447e9c15,female,group C,some high school,standard,none,76,82,74
+66db676d-8175-4a07-9eac-77269039f3eb,male,group D,high school,standard,none,65,63,64
+4168dfd6-1883-413c-aa4b-368e266ece48,female,group B,master's degree,standard,completed,75,75,83
+ef908efd-e6f1-4886-948c-df69b1bc132d,male,group D,master's degree,standard,none,70,66,65
+c9701de6-1419-4061-9db9-ec3aff1e4fdd,male,group C,high school,standard,completed,79,79,70
+58dd7a3a-6d5d-42ec-91ce-39dfc6417434,male,group E,associate's degree,standard,completed,100,100,100
+255d10d7-3c92-4f3e-bcdd-9715acf63155,female,group A,bachelor's degree,standard,completed,83,96,99
+1dc0df1c-3872-452e-9b61-504c931a17c9,female,group C,associate's degree,free/reduced,none,70,84,78
+dbfd1b82-f664-4a22-9130-b8bcf88d3e62,male,group E,some high school,standard,completed,97,80,88
+45709387-0e8e-4e3f-9261-62819414520e,female,group E,high school,free/reduced,none,33,32,35
+b9cd79a4-25f7-44e4-a49b-87662afc7269,male,group B,master's degree,free/reduced,none,38,40,41
+2a13da43-db0d-4c3d-8138-9dda3ccdd8e7,male,group C,some college,standard,completed,46,51,47
+05c66cd4-6d0c-4bdb-8a45-d3fb512a2913,female,group D,some college,free/reduced,none,13,36,37
+ee97e76e-e747-44fa-a234-fa87e952a3c0,male,group A,master's degree,standard,none,85,83,78
+badfcc15-97c4-483c-bed4-fc90315b7349,female,group B,some college,standard,none,79,79,80
+5958eab0-8551-4d51-a82b-21b64df63a55,female,group B,some high school,standard,none,76,81,79
+e10b0336-674f-4056-afc6-f34e54fb7f24,female,group C,some high school,free/reduced,completed,53,70,65
+263478f1-9c10-4c94-8903-56c5c223e0eb,male,group A,high school,standard,completed,68,70,63
+b0e2963a-88de-40de-a137-f7dfdecf3c8d,male,group D,associate's degree,free/reduced,completed,67,70,70
+d90a67cc-4c05-4585-997d-993e07706f88,male,group E,some college,standard,completed,100,84,88
+6d459b6a-f0d7-4454-aec2-a95ad7c3141a,male,group C,associate's degree,free/reduced,none,54,48,45
+afc40ef1-17f9-4c42-99c3-b5e23b15d561,female,group E,associate's degree,free/reduced,none,72,73,70
+a2f32c53-e4f7-4ea9-9b0f-180f72dcf4a1,male,group A,some college,standard,completed,91,97,95
+3c2ef803-ee0b-4abb-a7b8-98b7f178916e,male,group D,master's degree,standard,completed,87,81,86
+fd88eb19-a749-452f-818d-0ea3d540a316,female,group D,associate's degree,free/reduced,none,66,75,74
+6737a4cf-427b-4aac-8a23-fd0cfcfd65a6,male,group C,some high school,standard,none,65,66,64
+5e9736d9-989f-47ba-a5f0-09c1bed2ea1e,female,group E,associate's degree,free/reduced,completed,41,56,53
+34612e22-c9f8-4f95-8468-c1589084450b,female,group C,associate's degree,standard,none,67,69,65
+a8e082ef-7f7c-4152-ab8f-09101db2ee14,male,group E,high school,standard,none,94,89,86
+9ca26e8f-32aa-4283-b782-64eb14156894,female,group B,bachelor's degree,free/reduced,completed,57,70,68
+ca09cb8f-38cf-4911-808f-58e1a1f75528,male,group A,high school,standard,none,89,83,80
+7e988439-117d-4b0a-a292-074d83e78a68,male,group A,associate's degree,standard,completed,77,73,80
+adbe7d23-90d7-40ab-9b9e-b8e6214a4a0d,male,group C,some high school,standard,none,57,60,50
+99c4d081-1b64-4ee2-b111-67bb501be553,male,group D,some college,standard,completed,72,72,72
+0c075fcc-bef9-491b-8a08-50570579d362,male,group D,bachelor's degree,standard,completed,98,94,95
+c4566853-abbe-4623-ac69-0ff9ed4f18a2,female,group D,master's degree,standard,none,87,97,100
+3f0036ff-6d77-410e-82da-b7ac97605d53,male,group C,some high school,free/reduced,none,61,57,55
+323e163a-fc38-4f9b-85d8-c9de412af145,female,group C,master's degree,standard,none,85,100,97
+7eef006d-6c8d-44ac-a0b4-bcbcba1ce3e1,female,group D,some high school,standard,none,81,85,91
+1f90971c-334d-4822-bee8-264b9dc032f7,female,group D,high school,standard,completed,74,84,79
+21b7dae7-52ae-4bac-8565-7d2be00f6e95,male,group C,bachelor's degree,standard,none,98,92,90
+1179122e-e8c7-4ec3-afe9-4bd16ebd01e8,female,group D,some college,standard,none,86,84,89
+e3877d20-457b-4825-8a5f-af269e10fa08,male,group C,bachelor's degree,standard,completed,85,81,82
+e122791c-0193-44ec-9648-b0f8beb42600,male,group C,some college,standard,none,68,71,63
+9ff59a5d-3f7c-4460-9485-d2a35f084e9e,female,group E,high school,free/reduced,completed,66,78,77
+41dc0408-c3e3-4a62-bcfe-7ee4ba851e49,male,group B,some high school,free/reduced,completed,75,74,71
+0c37700e-15f6-4c0e-aece-697d1dc435f1,male,group C,bachelor's degree,standard,none,79,57,58
+5854bfd7-1283-4333-a757-98edcf7711eb,female,group B,bachelor's degree,free/reduced,none,59,85,82
+fb663ce8-0fea-4510-a14e-f1207a059cd4,male,group B,master's degree,free/reduced,none,60,62,58
+e5a05b2b-0ddb-4a33-869d-8cf8609e4ba8,male,group D,high school,standard,none,69,60,54
+7134cfad-e18c-489c-9522-c363465f7e28,female,group B,high school,free/reduced,none,49,54,58
+a6e21d73-5df5-4bd0-a463-de09860173e9,male,group D,some college,standard,none,62,44,52
+521adc51-a3fd-4344-9eb2-5c159138f64a,female,group E,high school,free/reduced,completed,70,84,83
+f8903ccb-6afd-4d99-868f-8964b1c1ef88,male,group D,bachelor's degree,standard,none,71,57,60
+97c80264-abe6-4a87-bec2-26d7790f6bdc,male,group C,bachelor's degree,standard,none,71,69,65
+002f804c-f11b-44c0-a7e3-55d5710463a1,female,group C,some high school,free/reduced,none,50,59,54
+a978e2dc-cde4-4e17-9ad9-66a33d09ef21,female,group B,high school,standard,none,52,55,57
+d9d90e16-6f29-443e-91b8-48f6f79374a4,male,group E,some college,free/reduced,completed,75,65,66
+a782e58f-fe97-423a-91c2-61f475696dee,female,group C,bachelor's degree,standard,none,51,64,63
+cc3d79c5-2631-481e-8d46-c778ee5b009a,male,group C,some high school,standard,none,64,48,50
+46984c93-665d-4c47-b69e-b9d98384db2f,female,group A,some college,free/reduced,completed,65,76,72
+0057483a-fc3c-4c04-9c0c-a6690207deb4,male,group B,master's degree,standard,none,99,81,87
+483aa287-2d29-47c1-ad7f-01884b04f4f8,female,group B,associate's degree,standard,none,60,62,58
+b34b0cb2-1076-486e-9b55-8d638a17d654,female,group B,some college,standard,none,70,78,80
+a81a3d3a-d623-4214-8082-da0b60adcdfc,male,group A,some college,standard,completed,77,76,77
+01807968-5b16-438d-ab0e-b4ac2925a6f5,male,group B,high school,free/reduced,none,37,28,23
+a092dbf8-3df5-4305-920e-edbbdddd377c,male,group E,associate's degree,free/reduced,none,73,73,61
+a10bc3d3-0476-4500-91a9-fde12192e387,female,group B,associate's degree,free/reduced,completed,53,74,75
+25da6156-1829-4834-ab0b-06d292991075,female,group B,associate's degree,standard,none,67,58,62
+b498cfd0-9a2f-48fc-baeb-170414683a93,female,group B,some college,free/reduced,none,67,79,80
+23fd6ce3-93b7-4c56-8c57-e326a2d60b16,male,group B,high school,free/reduced,none,51,57,50
+a5b561bb-12ec-4e52-92b2-a2d539238a46,male,group D,high school,standard,completed,64,71,70
+732b6dcc-ad23-4e3f-8662-53e363e5fb99,male,group E,some college,free/reduced,none,55,42,43
+c6bd1eb7-ead3-4e97-aaf2-16b728b16380,male,group D,associate's degree,free/reduced,completed,55,39,51
+eb3db1bc-f962-45b5-bcdf-190d9eb83071,male,group E,associate's degree,standard,none,86,77,78
+504464d2-7bd7-4c88-8d41-72554c3fde92,female,group B,master's degree,standard,none,71,88,85
+4154e10b-dc71-4cac-a84f-92852fe0a57f,male,group C,high school,free/reduced,none,71,63,64
+6b548e7d-d09a-414a-b896-9c0964b97de5,female,group C,some high school,free/reduced,none,51,67,69
+1a808c4e-0430-4b9f-ba8e-6b1ef5ed0143,female,group E,some college,standard,completed,75,76,85
+80c3dbeb-2e4e-4056-a980-75a11f1965b1,male,group C,some high school,free/reduced,none,45,31,27
+307ed916-e947-4da6-97c5-1735c1bcc086,male,group B,some high school,standard,none,59,54,48
+e2afddda-bc53-4d9f-a7ce-9ff4199c27d3,female,group E,high school,free/reduced,none,64,69,68
+f0b64add-3ba4-4351-bf4e-293ad6da2e04,male,group A,some college,standard,completed,78,69,73
+d5b9da8f-6484-4a79-9315-9a3f330fe8ae,male,group D,high school,free/reduced,none,59,61,58
+73ea75ff-4796-447b-97b1-05bfacab77a0,male,group E,bachelor's degree,free/reduced,none,80,70,71
+e9452c8d-5fac-4f96-a47d-1273ae99f8f0,male,group B,associate's degree,standard,completed,68,82,77
+ec5ed20d-7ce5-4173-ae08-db729daf2dac,female,group B,associate's degree,standard,none,77,81,79
+51634f98-af2e-4a8d-acf5-7ad476e1dd8f,male,group C,high school,standard,none,66,67,64
+1baee24e-2b07-442d-88b9-620503594a15,female,group C,some college,free/reduced,completed,26,44,46
+9cd18ec0-f932-4857-8b89-2ddeb9832e98,male,group D,some college,standard,completed,80,66,69
+4a3d6cdd-334f-4687-a3cc-c55a026ba87a,female,group D,some high school,free/reduced,none,48,62,61
+71dac6ab-5fa9-4e64-8c13-30bc87708e1b,female,group A,associate's degree,standard,none,52,64,55
+6d4c2d20-4f8f-41f4-8d3c-02aab1f47718,female,group D,master's degree,free/reduced,none,54,64,64
+1275b8ae-98b5-431d-8c8b-53ceadac7777,female,group C,some college,standard,completed,59,68,67
+6d76f768-34a7-4bce-ae41-b884746a8894,male,group D,high school,standard,none,77,62,65
+636f8573-bc5b-4325-a112-2411bf17ed4f,female,group B,some college,free/reduced,none,64,70,69
+758dc28c-c2dc-4549-8df2-896f8079c70c,male,group D,high school,standard,none,83,72,68
+d2cf483d-efa2-46e0-b270-36487c5182d9,male,group E,high school,free/reduced,none,70,73,69
+6da0ae0f-c33d-42a1-bbd4-9fcff76368a2,male,group C,some high school,standard,none,72,68,67
+4e39560f-4f8e-489d-ad71-5dc198c460ff,female,group B,associate's degree,standard,none,83,78,79
+65d4fb78-e1ff-4bc0-9ec0-39a46b9018fb,female,group B,associate's degree,standard,none,52,58,57
+ceb5d07d-137e-45dc-b810-06ac866e7e38,female,group C,some college,free/reduced,completed,53,73,74
+cfadb027-0457-4125-94e2-d9d9ef2c21c4,male,group D,some college,standard,none,55,55,55
+ad47c0fe-2611-456a-810c-142937291bcb,male,group C,associate's degree,standard,none,65,63,61
+38afa16c-d4d5-42f5-9f3a-012a0383be9a,female,group E,some high school,standard,none,60,67,64
+7cad814d-0676-4545-bf37-6e808fe8fd7a,male,group E,high school,free/reduced,completed,64,62,59
+809e9e8f-ac86-454d-9c2b-b2d1de2fca41,male,group C,associate's degree,standard,none,71,72,69
+f2102009-f59b-4593-9653-135c82adb9cb,male,group C,bachelor's degree,free/reduced,completed,61,71,65
+a28623b8-99f1-4b89-83e7-4f1fcef7f5e8,male,group D,associate's degree,standard,none,61,55,58
+5bffef45-f2fd-431d-902f-bd1368a2f538,female,group C,master's degree,standard,none,65,74,79
+e2a24a38-9cc8-4589-906b-ceca4e8ad3bc,female,group D,some high school,standard,completed,71,83,89
+2dafb6f7-5b0e-422d-9d0a-ff0061420369,male,group E,associate's degree,free/reduced,none,48,49,44
+bd4156e2-9df5-4744-a129-a56480d49d28,male,group E,high school,free/reduced,completed,75,80,75
+31d7eb30-d7b6-4dea-a100-6e972e90504b,male,group D,associate's degree,free/reduced,none,54,66,65
+97e93afa-a8bb-4db3-8f3e-a1d1c49974c8,female,group C,master's degree,standard,none,70,64,65
+f00adb11-ce62-448d-9eb0-3ad49fa56912,male,group D,some high school,standard,none,91,77,72
+a4ec2abd-ac1e-408b-9447-5e34c1c29968,female,group D,some high school,standard,completed,33,44,50
+99e84782-0bab-425c-9c22-78072406bbd7,female,group B,high school,standard,none,45,50,41
+e7af613a-0e7d-46db-a601-ac5237b45e4d,male,group A,high school,free/reduced,none,45,33,32
+c6c7eb3e-94d0-408f-b19e-f6dd90c7d728,male,group D,bachelor's degree,free/reduced,none,62,61,57
+df8985a8-c50f-48c5-a540-b2c7b3549d8c,male,group E,associate's degree,free/reduced,completed,92,79,77
+63cdce37-043c-4d1c-b576-8becdb6c78ec,female,group D,some college,standard,none,74,75,79
+e1daec0e-254c-4670-891e-b869b0652bae,female,group C,high school,standard,completed,81,79,83
+3705fbd5-258d-4f63-b21b-427ef008c77b,male,group C,associate's degree,free/reduced,none,76,71,66
+0d0d6455-23fa-4c10-97bb-d1a91c53b613,female,group C,associate's degree,standard,completed,57,72,73
+1b1cf6df-2f3d-4d35-b8fb-095b0776265b,male,group A,some college,free/reduced,none,63,61,55
+4d74cec7-3e61-4be9-8a14-89d82a4fa093,female,group D,high school,standard,completed,57,62,73
+bf572d94-b8ab-4da9-8324-7f713adbca4c,female,group B,some college,standard,completed,46,65,64
+de161c9d-ee0f-4630-8e6a-24fb9494dbd9,male,group E,some high school,free/reduced,completed,49,50,45
+47bc9cc2-ee82-4975-92b6-12bd0a1ce3ce,female,group D,some high school,standard,none,54,60,65
+32e9a4da-dd96-4715-adf5-c4844947c77e,male,group C,some high school,standard,completed,89,87,90
+559b3428-d464-42aa-aa4a-c419ad18e721,male,group D,bachelor's degree,standard,completed,77,70,78
+879c71ed-737d-4aba-87df-665a12bdace1,female,group C,bachelor's degree,standard,none,46,63,60
+5ae945d7-3892-490e-80b0-eb9b61f282fc,male,group B,associate's degree,standard,completed,66,59,70
+468bfad5-c4d6-43bc-a51a-62c6cff8658c,female,group C,high school,standard,none,48,63,53
+68ed8450-8017-485b-87a5-ff759ffec66e,male,group D,associate's degree,standard,completed,83,76,81
+f2787115-c729-420a-9d2d-dd8adebc02e0,male,group C,high school,standard,completed,69,75,74
+338cddb9-5325-4b90-8603-ac6eba037d30,male,group E,bachelor's degree,free/reduced,none,73,52,54
+8a63aec6-b186-40da-a424-e6331ad97780,female,group D,some college,standard,none,43,59,59
+61fd10d1-4762-4b55-9572-cf53ffba168c,male,group D,master's degree,standard,completed,91,84,83
+c6a20ce0-51cf-4878-8c2d-66271b0f144c,male,group C,associate's degree,standard,completed,49,58,55
+418a5d0b-93be-4117-a1e5-2439a641dca0,male,group B,master's degree,standard,none,87,86,84
+e4e1e111-2a29-44ce-8f27-362a495d5a76,male,group B,some high school,standard,completed,46,46,44
+1b08f448-059a-4d78-ac59-c280daa70eb4,female,group D,some high school,standard,completed,63,61,71
+fab69264-1b54-4a2d-bcf8-3869cd0f3afb,male,group E,bachelor's degree,standard,none,100,83,86
+c5f4849e-421f-4e21-8a6d-f0edddbe3cbb,female,group E,bachelor's degree,standard,none,86,87,89
+423dd9e7-11fa-4e71-b2db-f62eb471d764,female,group A,some high school,free/reduced,completed,55,73,70
+0e14ab6e-c60d-4ae3-b917-92141af05e83,female,group E,master's degree,free/reduced,none,84,100,99
+0f6f9f01-8e68-4b96-9e08-e60415391e33,female,group B,some high school,free/reduced,none,39,51,48
+55845921-610d-469c-9c9f-136c6895b809,male,group B,high school,standard,none,67,57,52
+5a31b8af-6e9d-49f4-b34b-6cd99a7a373a,female,group D,some high school,standard,completed,85,100,97
+53ab34da-f313-4b8e-b01a-d2e8da2a86da,male,group C,some high school,standard,none,64,51,44
+fc36ef8d-d6ca-4e2b-8007-270da11a07ac,female,group E,associate's degree,standard,none,81,77,74
+68d9406a-7730-4c18-89fd-7a8fe9cd60fb,male,group C,associate's degree,standard,none,78,71,67
+f36a35dd-a08c-4352-b4e8-2e73ec279285,female,group B,some high school,standard,none,59,59,58
+420199ff-7d05-47ab-927e-5282d6a7364d,male,group C,associate's degree,standard,none,74,76,70
+fe1eaac5-f392-4049-9744-4d7712e001b5,female,group B,some college,free/reduced,completed,31,29,35
+1c355bcf-6069-4a73-aa82-d6693a9f3b0d,female,group C,some high school,free/reduced,completed,54,55,65
+ecb25e96-2094-4874-a6b1-2eb1f6f3d435,male,group C,high school,free/reduced,none,51,51,45
+49e9563f-171a-4d4c-b91d-281039854b05,female,group B,bachelor's degree,free/reduced,completed,57,65,68
+6fadd67a-6ee3-44bd-9fde-48e77c58da42,female,group C,some high school,free/reduced,none,39,50,49
+cea8d1e1-2735-4a77-b9af-81661ae3b583,male,group C,some college,standard,none,64,48,48
+cbc5d481-2e56-4cfb-b3c7-89480dcb0a32,male,group C,master's degree,free/reduced,completed,69,79,72
+6c761966-fd9b-4f1f-b76f-5de42cda9fa7,male,group A,some high school,standard,none,58,50,47
+f95ac3f1-9f60-40e1-b6c1-dd9349f2adb8,female,group D,high school,standard,none,63,71,75
+05687f8e-156b-4d49-ab57-9f6dcef4c781,male,group E,associate's degree,standard,none,74,73,67
+c01b8ace-c6e5-43b2-bf73-b865190a3d84,male,group E,some college,free/reduced,none,78,84,77
+c488a40f-4bac-405e-917f-755941472baa,male,group A,some college,standard,completed,78,78,74
+54b2351d-ee7a-4218-a91a-44f62b670fa4,female,group B,some college,standard,none,75,76,81
+871da97b-4799-4457-b480-88a57867866f,male,group D,some college,standard,completed,70,60,65
+b64692d6-b85e-4f1f-bd11-1925ffa488cb,male,group D,some college,standard,none,67,55,53
+22582cc3-c08e-4ab1-9b91-de62ca4d354b,female,group C,associate's degree,standard,none,87,93,88
+ea521086-46c3-47b8-83ec-71f17d6f5d74,male,group C,some college,standard,none,69,63,66
+5312a4cb-455c-4caa-bb3e-2eb01305530c,female,group A,associate's degree,standard,none,58,54,58
+7381e0c3-00f4-45b3-9920-428199065bab,male,group E,high school,free/reduced,completed,86,82,75
+b9409f37-1aad-442e-b97f-618cd366ae0d,male,group C,high school,standard,none,73,70,65
+c95df273-c919-41c1-a4d6-a342e604ac08,male,group D,associate's degree,free/reduced,completed,85,91,92
+87ce68a0-4b49-49dd-ba06-d50870541689,female,group C,some high school,free/reduced,none,32,35,41
+e923604c-03e1-4f01-bec3-1fff1ddcc372,female,group C,some college,standard,none,73,74,82
+7d4e77a1-20e8-4009-9464-bc2ab3695494,male,group A,some college,standard,completed,65,60,62
